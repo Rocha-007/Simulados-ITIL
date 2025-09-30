@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 90%;
+    max-width: 700px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.option-btn {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0;
+    font-size: 16px;
+    text-align: left;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: white;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.option-btn:hover:not(:disabled) {
+    background-color: #f0f0f0;
+}
+
+.option-btn.correct {
+    background-color: #d4edda;
+    border-color: #155724;
+}
+
+.option-btn.incorrect {
+    background-color: #f8d7da;
+    border-color: #721c24;
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+}
+
+#next-btn {
+    display: block;
+    margin: 20px auto 0 auto;
+    padding: 10px 30px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.hidden {
+    display: none;
+}
+/* --- ESTILOS PARA O MENU PRINCIPAL --- */
+.menu-btn {
+    display: block;
+    width: 100%;
+    padding: 20px;
+    margin: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+.menu-btn:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px); /* Efeito de levantar o botão */
+}
+/* --- ESTILOS ADICIONAIS PARA O MENU COM COLUNAS --- */
+.menu-container {
+    display: flex;
+    gap: 20px; /* Espaço entre as colunas */
+}
+
+.column {
+    flex: 1; /* Faz com que cada coluna ocupe metade do espaço */
+    display: flex;
+    flex-direction: column;
+}
+
+.column h2 {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+    margin-top: 0;
+}

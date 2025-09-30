@@ -1,0 +1,232 @@
+[
+  {
+    "pergunta": "Qual atividade da cadeia de valor garante que as pessoas entendam a visão da organização?",
+    "opcoes": [
+      "A) Melhorar",
+      "B) Planejar",
+      "C) Entrega e suporte",
+      "D) Obtenção/construção"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual afirmativa sobre as atividades da cadeia de valor está CORRETA?",
+    "opcoes": [
+      "A) Toda prática pertence a uma atividade específica da cadeia de valor.",
+      "B) Uma combinação específica de atividades e práticas da cadeia de valor forma um relacionamento de serviço.",
+      "C) As atividades da cadeia de valor de serviço formam um fluxo único de trabalho que permite a criação de valor.",
+      "D) Cada atividade da cadeia de valor contribui para a cadeia de valor ao transformar entradas específicas em saídas."
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como todas as atividades da cadeia de valor transformam entradas em saídas?",
+    "opcoes": [
+      "A) Determinando a demanda do serviço",
+      "B) Usando uma combinação de práticas",
+      "C) Usando uma única equipe funcional",
+      "D) Implementando a automação de processo"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual atividade da cadeia de valor comunica o status atual das quatro dimensões do gerenciamento de serviço?",
+    "opcoes": [
+      "A) Melhorar",
+      "B) Engajar",
+      "C) Obtenção/construção",
+      "D) Planejar"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Que atividade da cadeia de valor garante uma compreensão partilhada da situação atual e da direção necessária para todos os produtos e serviços?",
+    "opcoes": [
+      "A) Planejar",
+      "B) Melhorar",
+      "C) Desenho e transição",
+      "D) Entregar e apoiar"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual afirmação sobre a cadeia de valor de serviços está CORRETA?",
+    "opcoes": [
+      "A) A cadeia de valor do serviço converte valor em demanda",
+      "B) A cadeia de valor de serviço ITIL fornece um modelo operacional para a criação, entrega e melhoria contínua dos serviços.",
+      "C) Cada atividade da cadeia de valor identifica uma necessidade de recursos de um fornecedor externo",
+      "D) A cadeia de valor de serviços utiliza fluxos de valor para descrever uma combinação de consumidores e fornecedores"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é uma entrada externa para a cadeia de valor do serviço?",
+    "opcoes": [
+      "A) A atividade de “melhorar” a cadeia de valor",
+      "B) Um plano global",
+      "C) Requisitos do cliente",
+      "D) Ciclos de feedback"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual afirmação sobre o fluxo de valor de um serviço está CORRETA?",
+    "opcoes": [
+      "A) Ele usa entradas e saídas prescritivas",
+      "B) É uma atividade da cadeia de valor",
+      "C) Integra práticas para um cenário específico",
+      "D) É usado para fornecer governança"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que pode atuar como modelo operacional para uma organização?",
+    "opcoes": [
+      "A) As quatro dimensões da gestão de serviços",
+      "B) A cadeia de valor do serviço",
+      "C) Os princípios orientadores do ITIL",
+      "D) Melhoria contínua"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual MELHOR descreve o propósito da atividade de “melhorar” a cadeia de valor?",
+    "opcoes": [
+      "A) Para organizar uma grande iniciativa de melhoria em várias iniciativas menores",
+      "B) Para disponibilizar serviços e recursos novos e aprimorados para uso",
+      "C) Para garantir um entendimento compartilhado da visão e direção de melhoria para todos os produtos e serviços",
+      "D) Melhorar continuamente todos os produtos e serviços em todas as atividades da cadeia de valor"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual atividade da cadeia de valor garante que os componentes do serviço atendam às especificações acordadas?",
+    "opcoes": [
+      "A) Planejar",
+      "B) Desenho e transição",
+      "C) Obtenção/construção",
+      "D) Entregar e apoiar"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que descreve as etapas necessárias para criar e entregar um serviço específico a um consumidor?",
+    "opcoes": [
+      "A) Gestão de serviços",
+      "B) Práticas",
+      "C) Um fluxo de valor",
+      "D) Gerenciamento de nível de serviço"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que está incluído no propósito da atividade da cadeia de valor “entrega e suporte”?",
+    "opcoes": [
+      "A) Atendendo às expectativas das partes interessadas quanto ao tempo de lançamento no mercado",
+      "B) Compreender a visão de serviço da organização",
+      "C) Compreender as necessidades das partes interessadas",
+      "D) Prestação de serviços de acordo com especificações acordadas"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "O que é usado para vincular atividades dentro da cadeia de valor de serviços?",
+    "opcoes": [
+      "A) Acordos de nível de serviço",
+      "B) Entradas, saídas e gatilhos",
+      "C) Oportunidade, demanda e valor",
+      "D) Central de serviços"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é uma das PRINCIPAIS preocupações da atividade da cadeia de valor de 'desenho e transição'?",
+    "opcoes": [
+      "A) Compreender a visão da organização",
+      "B) Compreender as necessidades das partes interessadas",
+      "C) Atender às expectativas das partes interessadas",
+      "D) Garantir que os componentes do serviço estejam disponíveis"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que pode ser descrito como modelo operacional de criação e gestão de produtos e serviços?",
+    "opcoes": [
+      "A) Governança",
+      "B) Cadeia de valor de serviços",
+      "C) Princípios orientadores",
+      "D) Práticas"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é uma entrada externa para a cadeia de valor do serviço?",
+    "opcoes": [
+      "A) A atividade de 'melhorar' a cadeia de valor",
+      "B) Um plano global",
+      "C) Requisitos do cliente",
+      "D) Ciclos de feedback"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que é fornecido pela atividade de 'engajar' a cadeia de valor?",
+    "opcoes": [
+      "A) Garantir que as expectativas das partes interessadas em relação à qualidade sejam atendidas",
+      "B) Garantir que as necessidades das partes interessadas sejam compreendidas pela organização",
+      "C) Garantir que os componentes do serviço estejam disponíveis quando necessário",
+      "D) Garantir que os serviços sejam operados de acordo com as especificações acordadas"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual afirmação sobre atividades de criação de valor está CORRETA?",
+    "opcoes": [
+      "A) Cada fluxo de valor deve ser projetado com uma combinação específica de atividades da cadeia de valor de serviços",
+      "B) As atividades da cadeia de valor de serviços têm dependências pré-determinadas nas práticas ITIL",
+      "C) Um fluxo de valor é um modelo operacional para criação de valor por meio de produtos e serviços",
+      "D) As organizações devem garantir que cada fluxo de valor seja aplicável a muitos cenários"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "O que descreve a atividade da cadeia de valor 'planejar'?",
+    "opcoes": [
+      "A) Garante uma compreensão compartilhada do status e da visão atuais de todos os produtos e serviços em toda a organização",
+      "B) Garante que os serviços sejam entregues e apoiados de acordo com as especificações acordadas e as expectativas das partes interessadas",
+      "C) Garante que os componentes do serviço estejam disponíveis quando e onde forem necessários e atendam às especificações acordadas",
+      "D) Garante a melhoria contínua de produtos, serviços e práticas em todas as atividades da cadeia de valor"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual atividade da cadeia de valor garante que os componentes do serviço atendam às especificações acordadas?",
+    "opcoes": [
+      "A) Desenho e transição",
+      "B) Obtenção/construção",
+      "C) Entrega e suporte",
+      "D) Planejar"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual atividade da cadeia de valor de serviços trata da compra de novos produtos?",
+    "opcoes": [
+      "A) Engajar",
+      "B) Obtenção / construção",
+      "C) Planejar",
+      "D) Melhorar"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "O que está incluído no propósito da atividade de 'melhorar' na cadeia de valor?",
+    "opcoes": [
+      "A) Garantir a melhoria contínua das práticas em todas as atividades da cadeia de valor",
+      "B) Garantir que os serviços atendam continuamente às expectativas de qualidade, custos e tempo de lançamento no mercado",
+      "C) Garantir uma compreensão compartilhada da direção de melhoria dos serviços em toda a organização",
+      "D) Garantir o envolvimento contínuo e boas relações com todas as partes interessadas"
+    ],
+    "resposta_correta": "A"
+  }
+]
