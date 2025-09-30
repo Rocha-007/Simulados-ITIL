@@ -31,7 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
         nextBtn.classList.add('hidden');
 
         const currentQuestion = questions[currentQuestionIndex];
-        questionEl.innerText = currentQuestion.pergunta;
+        // DEPOIS:
+questionEl.innerText = `Questão ${currentQuestionIndex + 1} de ${questions.length}: ${currentQuestion.pergunta}`;
 
         currentQuestion.opcoes.forEach(optionText => {
             const button = document.createElement('button');
