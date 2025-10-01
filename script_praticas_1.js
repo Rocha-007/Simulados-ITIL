@@ -38,13 +38,16 @@ document.addEventListener('DOMContentLoaded', () => {
         questionEl.innerText = `Questão ${currentQuestionIndex + 1} de ${questions.length}: ${currentQuestion.pergunta}`;
         optionsContainerEl.innerHTML = '';
         
+        // MOSTRA O BOTÃO "PRÓXIMA" IMEDIATAMENTE
+        nextBtn.classList.remove('hidden');
+
         currentQuestion.opcoes.forEach(optionText => {
             const button = document.createElement('button');
             button.innerText = optionText;
             button.classList.add('option-btn');
             optionsContainerEl.appendChild(button);
 
-            // Se a questão NÃO foi respondida, adiciona o evento de clique
+            // Se a questão NÃO foi respondida, adiciona o clique
             if (!state.answered) {
                 button.addEventListener('click', () => selectAnswer(button, currentQuestion.resposta_correta));
             }
@@ -59,15 +62,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (optionLetter === correctAnswerLetter) {
                     btn.classList.add('correct');
                 }
-                // Pinta de vermelho apenas a resposta incorreta que o usuário marcou
                 if (btn.innerText === state.userAnswer && optionLetter !== correctAnswerLetter) {
                     btn.classList.add('incorrect');
                 }
             });
-            nextBtn.classList.remove('hidden');
-        } else {
-            // Se a questão for nova, o botão "Próximo" fica escondido até uma resposta ser dada
-            nextBtn.classList.add('hidden');
         }
 
         // Controla a visibilidade dos botões de navegação
@@ -95,15 +93,12 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             selectedButton.classList.add('incorrect');
         }
-        // Mostra o botão "Próximo" após a resposta
-        nextBtn.classList.remove('hidden');
     }
 
     function showResult() {
         quizContainerEl.classList.add('hidden');
         resultContainerEl.classList.remove('hidden');
         
-        // Recalcula a pontuação final para garantir consistência
         let finalScore = 0;
         questionStates.forEach((state, index) => {
             if (state.answered) {
