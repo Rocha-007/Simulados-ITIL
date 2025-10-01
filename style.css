@@ -1,27 +1,31 @@
+/* Estilos gerais para a página */
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f2f5;
     color: #333;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start; /* Alinha ao topo para menus grandes */
     min-height: 100vh;
     margin: 0;
+    padding: 20px 0; /* Adiciona um espaço no topo e em baixo */
 }
 
+/* O container principal que segura o quiz */
 .container {
     background-color: white;
     padding: 30px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     width: 90%;
-    max-width: 700px;
+    max-width: 900px; /* Aumentei um pouco para o novo layout */
 }
 
 h1, h2 {
     text-align: center;
 }
 
+/* Estilos para os botões de opção do simulado */
 .option-btn {
     display: block;
     width: 100%;
@@ -34,6 +38,7 @@ h1, h2 {
     cursor: pointer;
     background-color: white;
     transition: background-color 0.3s, border-color 0.3s;
+    box-sizing: border-box; /* Boa prática adicionar aqui também */
 }
 
 .option-btn:hover:not(:disabled) {
@@ -54,51 +59,45 @@ h1, h2 {
     cursor: not-allowed;
 }
 
-#next-btn {
-    display: block;
-    margin: 20px auto 0 auto;
-    padding: 10px 30px;
-    border: none;
-    background-color: #007bff;
-    color: white;
-    border-radius: 5px;
-    font-size: 16px;
-    cursor: pointer;
-}
-
-.hidden {
-    display: none;
-}
 /* --- ESTILOS PARA O MENU PRINCIPAL --- */
 .menu-btn {
-    display: block;
+    display: flex; /* Mudei para flex para alinhar textos */
+    justify-content: space-between; /* Coloca um texto em cada ponta */
+    align-items: center;
     width: 100%;
     padding: 20px;
     margin: 15px 0;
     font-size: 18px;
     font-weight: bold;
-    text-align: center;
-    text-decoration: none; /* Remove o sublinhado do link */
+    text-align: left; /* Alinha o primeiro texto à esquerda */
+    text-decoration: none;
     color: white;
     background-color: #007bff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
+    box-sizing: border-box; /* ESTA É A CORREÇÃO PRINCIPAL */
 }
 
 .menu-btn:hover {
     background-color: #0056b3;
-    transform: translateY(-2px); /* Efeito de levantar o botão */
+    transform: translateY(-2px);
 }
+
+.hidden {
+    display: none;
+}
+
 /* --- ESTILOS ADICIONAIS PARA O MENU COM COLUNAS --- */
 .menu-container {
     display: flex;
-    gap: 20px; /* Espaço entre as colunas */
+    flex-direction: column; /* Coloca as colunas uma em cima da outra em telas pequenas */
+    gap: 20px;
 }
 
 .column {
-    flex: 1; /* Faz com que cada coluna ocupe metade do espaço */
+    flex: 1;
     display: flex;
     flex-direction: column;
 }
@@ -109,6 +108,15 @@ h1, h2 {
     padding-bottom: 10px;
     margin-top: 0;
 }
+
+/* Media query para telas maiores (como desktop) */
+@media (min-width: 768px) {
+    .menu-container {
+        flex-direction: row; /* Coloca as colunas lado a lado */
+    }
+}
+
+
 /* --- ESTILO PARA O LINK DE VOLTAR AO MENU --- */
 .back-to-menu {
     margin-bottom: 25px;
@@ -125,9 +133,24 @@ h1, h2 {
 .back-to-menu a:hover {
     text-decoration: underline;
 }
+
 /* --- ESTILO PARA CONTAINER DOS BOTÕES DE NAVEGAÇÃO --- */
 .navigation-buttons {
     display: flex;
-    justify-content: space-between; /* Coloca um botão em cada ponta */
+    justify-content: space-between;
     margin-top: 20px;
+}
+
+#next-btn, #prev-btn {
+    padding: 10px 30px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#prev-btn {
+    background-color: #6c757d;
 }
