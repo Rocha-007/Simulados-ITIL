@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function loadQuestions() {
         // MUDE APENAS ESTA LINHA EM CADA ARQUIVO .JS DIFERENTE
         // Exemplo para o script1.js:
-        const response = await fetch('perguntas_svs.json');
+        const response = await fetch('perguntas8.json');
         
         questions = await response.json();
         questions.sort(() => Math.random() - 0.5);

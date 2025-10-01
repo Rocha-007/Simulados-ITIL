@@ -8,23 +8,25 @@
 </head>
 <body>
     <div class="container">
-        <h1>Simulado por Tópico: Conceitos Chave</h1>
-
-        <div id="quiz-container">
-            <h2 id="question">Carregando pergunta...</h2>
-            <div id="options-container">
-            </div>
-            <button id="next-btn" class="hidden">Próxima Pergunta</button>
+        <div class="back-to-menu">
+            <a href="index.html">&larr; Voltar ao Menu Principal</a>
         </div>
-
+        <h1>Simulado por Tópico: Conceitos Chave</h1>
+        <div id="quiz-container">
+            <h2 id="question">Carregando...</h2>
+            <div id="options-container"></div>
+            <div class="navigation-buttons">
+                <button id="prev-btn" class="hidden">Questão Anterior</button>
+                <button id="next-btn" class="hidden">Próxima Pergunta</button>
+            </div>
+        </div>
         <div id="result-container" class="hidden">
             <h2>Resultado Final</h2>
-            <p id="score">Você acertou X de Y perguntas.</p>
-            <p id="percentage">Sua pontuação final: Z%</p>
+            <p id="score"></p>
+            <p id="percentage"></p>
             <button onclick="location.reload()">Tentar Novamente</button>
         </div>
     </div>
-
     <script src="script_conceitos.js"></script>
 </body>
 </html>
