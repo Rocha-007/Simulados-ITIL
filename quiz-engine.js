@@ -20,14 +20,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- MAPA DE CONFIGURAÇÃO DE TODOS OS SIMULADOS ---
     const quizConfig = {
-        '1': { title: 'Simulado 1 ITIL - 4 fundamentos', file: 'perguntas1.json', back: 'index.html' },
-        '2': { title: 'Simulado 2 ITIL - 4 fundamentos', file: 'perguntas2.json', back: 'index.html' },
-        '3': { title: 'Simulado 3 ITIL - 4 fundamentos', file: 'perguntas3.json', back: 'index.html' },
-        '4': { title: 'Simulado 4 ITIL - 4 fundamentos', file: 'perguntas4.json', back: 'index.html' },
-        '5': { title: 'Simulado 5 ITIL - 4 fundamentos', file: 'perguntas5.json', back: 'index.html' },
-        '6': { title: 'Simulado 6 ITIL - 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
-        '7': { title: 'Simulado 7 ITIL - 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
-        '8': { title: 'Simulado 8 ITIL - 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
+        '1': { title: 'Simulado 1 - ITIL 4 fundamentos', file: 'perguntas1.json', back: 'index.html' },
+        '2': { title: 'Simulado 2 - ITIL 4 fundamentos', file: 'perguntas2.json', back: 'index.html' },
+        '3': { title: 'Simulado 3 - ITIL 4 fundamentos', file: 'perguntas3.json', back: 'index.html' },
+        '4': { title: 'Simulado 4 - ITIL 4 fundamentos', file: 'perguntas4.json', back: 'index.html' },
+        '5': { title: 'Simulado 5 - ITIL 4 fundamentos', file: 'perguntas5.json', back: 'index.html' },
+        '6': { title: 'Simulado 6 - ITIL 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
+        '7': { title: 'Simulado 7 - ITIL 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
+        '8': { title: 'Simulado 8 - ITIL 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
         'conceitos': { title: 'Simulado por Tópico: Conceitos Chave', file: 'perguntas_conceitos.json', back: 'index.html' },
         'principios': { title: 'Simulado por Tópico: 7 Princípios Orientadores', file: 'perguntas_principios.json', back: 'index.html' },
         'dimensoes': { title: 'Simulado por Tópico: 4 Dimensões', file: 'perguntas_dimensoes.json', back: 'index.html' },
