@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu - Práticas de Gestão</title>
     <link rel="stylesheet" href="style.css">
+    
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#007bff"/>
 </head>
 <body>
     <div class="container">
@@ -21,11 +24,13 @@
     </div>
 
     <script>
-        document.addEventListener('keydown', function(event) {
-            if (event.key === 'Escape') {
-                window.location.href = 'index.html';
-            }
-        });
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/simulados-itil-4-fundamentos/sw.js')
+                    .then(reg => console.log('Service worker registrado.'))
+                    .catch(err => console.log('Service worker não registrado:', err));
+            });
+        }
     </script>
 </body>
 </html>
