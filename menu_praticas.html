@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale1.0">
     <title>Menu - Práticas de Gestão</title>
     <link rel="stylesheet" href="style.css">
     
@@ -17,16 +17,24 @@
         <h1>Práticas de Gestão</h1>
         <p>Escolha um dos blocos de questões abaixo:</p>
         
-        <a href="quiz.html?id=praticas_1" class="menu-btn">Simulado Práticas 1</a>
-        <a href="quiz.html?id=praticas_2" class="menu-btn">Simulado Práticas 2</a>
-        <a href="quiz.html?id=praticas_3" class="menu-btn">Simualdo Práticas 3</a>
-        <a href="quiz.html?id=praticas_4" class="menu-btn">Simualdo Práticas 4</a>
+        <a href="quiz.html?id=praticas_1" class="menu-btn">Questões Simulados 1 e 2</a>
+        <a href="quiz.html?id=praticas_2" class="menu-btn">Questões Simulados 3 e 4</a>
+        <a href="quiz.html?id=praticas_3" class="menu-btn">Questões Simulados 5 e 6</a>
+        <a href="quiz.html?id=praticas_4" class="menu-btn">Questões Simulados 7 e 8</a>
     </div>
 
     <script>
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Escape') {
+                window.location.href = 'index.html';
+            }
+        });
+        
+        // Adiciona também o registro do Service Worker
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('/simulados-itil-4-fundamentos/sw.js')
+                // Certifique-se que este caminho está correto para o seu repositório do GitHub
+                navigator.serviceWorker.register('/simulados-itil-4-fundamentos/sw.js') 
                     .then(reg => console.log('Service worker registrado.'))
                     .catch(err => console.log('Service worker não registrado:', err));
             });
