@@ -13,27 +13,28 @@ document.addEventListener('DOMContentLoaded', () => {
     const progressBarEl = document.getElementById('progress-bar');
     const backLink = document.querySelector('.back-to-menu a');
 
-    // --- VARIÁVEIS DE ESTADO ---
+    // --- VARIÁVEIS DE ESTADO 
     let questions = [];
     let currentQuestionIndex = 0;
     let questionStates = [];
-
-    // --- MAPA DE CONFIGURAÇÃO DE TODOS OS SIMULADOS ---
+    
+    // --- MAPA DE CONFIGURAÇÃO DE TODOS OS SIMULADOS 
     const quizConfig = {
-        '1': { title: 'Simulado 1 - ITIL 4 fundamentos', file: 'perguntas1.json', back: 'index.html' },
-        '2': { title: 'Simulado 2 - ITIL 4 fundamentos', file: 'perguntas2.json', back: 'index.html' },
-        '3': { title: 'Simulado 3 - ITIL 4 fundamentos', file: 'perguntas3.json', back: 'index.html' },
-        '4': { title: 'Simulado 4 - ITIL 4 fundamentos', file: 'perguntas4.json', back: 'index.html' },
-        '5': { title: 'Simulado 5 - ITIL 4 fundamentos', file: 'perguntas5.json', back: 'index.html' },
-        '6': { title: 'Simulado 6 - ITIL 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
-        '7': { title: 'Simulado 7 - ITIL 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
-        '8': { title: 'Simulado 8 - ITIL 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
+        '1': { title: 'Simulado 1 ITIL 4 fundamentos', file: 'perguntas1.json', back: 'index.html' },
+        '2': { title: 'Simulado 2 ITIL 4 fundamentos', file: 'perguntas2.json', back: 'index.html' },
+        '3': { title: 'Simulado 3 ITIL 4 fundamentos', file: 'perguntas3.json', back: 'index.html' },
+        '4': { title: 'Simulado 4 ITIL 4 fundamentos', file: 'perguntas4.json', back: 'index.html' },
+        '5': { title: 'Simulado 5 ITIL 4 fundamentos', file: 'perguntas5.json', back: 'index.html' },
+        '6': { title: 'Simulado 6 ITIL 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
+        '7': { title: 'Simulado 7 ITIL 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
+        '8': { title: 'Simulado 8 ITIL 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
+        '9': { title: 'Simulado 9 ITIL 4 fundamentos', file: 'perguntas9.json', back: 'index.html' }, 
         'conceitos': { title: 'Simulado por Tópico: Conceitos Chave', file: 'perguntas_conceitos.json', back: 'index.html' },
         'principios': { title: 'Simulado por Tópico: 7 Princípios Orientadores', file: 'perguntas_principios.json', back: 'index.html' },
         'dimensoes': { title: 'Simulado por Tópico: 4 Dimensões', file: 'perguntas_dimensoes.json', back: 'index.html' },
         'svs': { title: 'Simulado por Tópico: Sistema de Valor de Serviço (SVS)', file: 'perguntas_svs.json', back: 'index.html' },
         'cvs': { title: 'Simulado por Tópico: Cadeia de Valor de Serviço (CVS)', file: 'perguntas_cvs.json', back: 'index.html' },
-        'praticas_1': { title: 'Simulado de Práticas 1 (Questões dos Simulados 1 e 2)', file: 'perguntas_praticas_1.json', back: 'menu_praticas.html' },
+        'praticas_1': { title: 'Simulado de Práticas (Questões dos Simulados 1 e 2)', file: 'perguntas_praticas_1.json', back: 'menu_praticas.html' },
         'praticas_2': { title: 'Simulado de Práticas 2 (Questões dos Simulados 3 e 4)', file: 'perguntas_praticas_2.json', back: 'menu_praticas.html' },
         'praticas_3': { title: 'Simulado de Práticas 3 (Questões dos Simulados 5 e 6)', file: 'perguntas_praticas_3.json', back: 'menu_praticas.html' },
         'praticas_4': { title: 'Simulado de Práticas 4 (Questões dos Simulados 7 e 8)', file: 'perguntas_praticas_4.json', back: 'menu_praticas.html' }
