@@ -2,450 +2,450 @@
   {
     "pergunta": "Qual princípio orientador recomenda que as quatro dimensões do gerenciamento de serviço sejam consideradas?",
     "opcoes": [
-      "A) Pensar e trabalhar holisticamente",
-      "B) Progredir iterativamente com feedback",
-      "C) Foco no valor",
-      "D) Manter de forma simples e prática"
+      "Pensar e trabalhar holisticamente",
+      "Progredir iterativamente com feedback",
+      "Foco no valor",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador recomenda a coleta de dados antes de decidir o que pode ser reutilizado?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Começar de onde você está",
-      "C) Manter de forma simples e prática",
-      "D) Progredir iterativamente com feedback"
+      "Foco no valor",
+      "Começar de onde você está",
+      "Manter de forma simples e prática",
+      "Progredir iterativamente com feedback"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual das opções a seguir descreve a natureza dos princípios orientadores?",
     "opcoes": [
-      "A) Os princípios orientadores podem orientar uma organização em todas as circunstâncias.",
-      "B) Cada princípio orientador exige ações e decisões específicas.",
-      "C) Uma organização deve selecionar e adotar apenas um dos sete princípios orientadores.",
-      "D) Os princípios orientadores descrevem os processos que todas as organizações devem adotar."
+      "Os princípios orientadores podem orientar uma organização em todas as circunstâncias.",
+      "Cada princípio orientador exige ações e decisões específicas.",
+      "Uma organização deve selecionar e adotar apenas um dos sete princípios orientadores.",
+      "Os princípios orientadores descrevem os processos que todas as organizações devem adotar."
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador recomenda organizar o trabalho em partes menores e gerenciáveis que podem ser realizadas e concluídas de maneira oportuna?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Começar de onde você está",
-      "C) Progredir iterativamente com feedback",
-      "D) Colaborar e promover visibilidade"
+      "Foco no valor",
+      "Começar de onde você está",
+      "Progredir iterativamente com feedback",
+      "Colaborar e promover visibilidade"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é uma consideração fundamental para o princípio orientador “manter de forma simples e prática”?",
     "opcoes": [
-      "A) Tentar criar uma solução para todas as exceções",
-      "B) Entender como cada elemento contribui para a criação de valor",
-      "C) Ignorar os objetivos conflitantes de diferentes partes interessadas",
-      "D) Começar com uma solução complexa e, em seguida, simplificar"
+      "Tentar criar uma solução para todas as exceções",
+      "Entender como cada elemento contribui para a criação de valor",
+      "Ignorar os objetivos conflitantes de diferentes partes interessadas",
+      "Começar com uma solução complexa e, em seguida, simplificar"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que deve ser feito primeiro ao se aplicar o princípio orientador “foco no valor”?",
     "opcoes": [
-      "A) Identificar os resultados que o serviço facilita",
-      "B) Identificar todos os fornecedores e parceiros envolvidos no serviço",
-      "C) Determinar quem é o consumidor do serviço em cada situação",
-      "D) Determinar o custo do fornecimento do serviço"
+      "Identificar os resultados que o serviço facilita",
+      "Identificar todos os fornecedores e parceiros envolvidos no serviço",
+      "Determinar quem é o consumidor do serviço em cada situação",
+      "Determinar o custo do fornecimento do serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é o ponto de partida para otimização?",
     "opcoes": [
-      "A) Garantir o engajamento com as partes interessadas",
-      "B) Entender a visão e os objetivos da organização",
-      "C) Determinar onde estaria o impacto mais positivo",
-      "D) Padronizar práticas e serviços"
+      "Garantir o engajamento com as partes interessadas",
+      "Entender a visão e os objetivos da organização",
+      "Determinar onde estaria o impacto mais positivo",
+      "Padronizar práticas e serviços"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual princípio orientador enfatiza a necessidade de entender o fluxo de trabalho em progresso, identificar dificuldades e detectar desperdícios?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Colaborar e promover visibilidade",
-      "C) Pensar e trabalhar holisticamente",
-      "D) Manter de forma simples e prática"
+      "Foco no valor",
+      "Colaborar e promover visibilidade",
+      "Pensar e trabalhar holisticamente",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual princípio orientador descreve a importância de se fazer alguma coisa, em vez de se gastar muito tempo analisando diferentes opções?",
     "opcoes": [
-      "A) Otimizar e automatizar",
-      "B) Começar de onde você está",
-      "C) Foco no valor",
-      "D) Progredir iterativamente com feedback"
+      "Otimizar e automatizar",
+      "Começar de onde você está",
+      "Foco no valor",
+      "Progredir iterativamente com feedback"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual das opções a seguir destina-se a ajudar uma organização a adotar e adaptar o Guia da ITIL?",
     "opcoes": [
-      "A) As quatro dimensões do gerenciamento de serviço",
-      "B) Os princípios orientadores",
-      "C) A cadeia de valor de serviço",
-      "D) Práticas"
+      "As quatro dimensões do gerenciamento de serviço",
+      "Os princípios orientadores",
+      "A cadeia de valor de serviço",
+      "Práticas"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "A receita e o crescimento do consumidor são as PRINCIPAIS preocupações de qual princípio orientador?",
     "opcoes": [
-      "A) Manter de forma simples e prática",
-      "B) Otimizar e automatizar",
-      "C) Progredir iterativamente com feedback",
-      "D) Foco no valor"
+      "Manter de forma simples e prática",
+      "Otimizar e automatizar",
+      "Progredir iterativamente com feedback",
+      "Foco no valor"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador recomenda avaliar o estado atual e decidir o que pode ser reutilizado?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Começar de onde você está",
-      "C) Colaborar e promover visibilidade",
-      "D) Progredir iterativamente com feedback"
+      "Foco no valor",
+      "Começar de onde você está",
+      "Colaborar e promover visibilidade",
+      "Progredir iterativamente com feedback"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que pode ajudar a reduzir a resistência a uma melhoria planejada ao aplicar o princípio orientador “colaborar e promover a visibilidade”?",
     "opcoes": [
-      "A) Restringir as informações sobre a melhoria apenas às partes interessadas essenciais",
-      "B) Aumentar a colaboração e a visibilidade para a melhoria",
-      "C) Envolver os clientes após a conclusão de todo o planejamento",
-      "D) Envolver todos os grupos de partes interessadas da mesma forma, com a mesma comunicação"
+      "Restringir as informações sobre a melhoria apenas às partes interessadas essenciais",
+      "Aumentar a colaboração e a visibilidade para a melhoria",
+      "Envolver os clientes após a conclusão de todo o planejamento",
+      "Envolver todos os grupos de partes interessadas da mesma forma, com a mesma comunicação"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é uma recomendação do princípio orientador “pensar e trabalhar de forma holística”?",
     "opcoes": [
-      "A) Realizar uma revisão das práticas existentes de gerenciamento de serviços e decidir o que manter e o que descartar",
-      "B) Analisar como uma iniciativa de melhoria pode ser organizada em seções menores e gerenciáveis que possam ser concluídas em tempo hábil",
-      "C) Revise as práticas de gerenciamento de serviços e remova qualquer complexidade desnecessária",
-      "D) Utilizar as quatro dimensões da gestão de serviços para garantir a coordenação de todos os aspectos de uma iniciativa de melhoria"
+      "Realizar uma revisão das práticas existentes de gerenciamento de serviços e decidir o que manter e o que descartar",
+      "Analisar como uma iniciativa de melhoria pode ser organizada em seções menores e gerenciáveis que possam ser concluídas em tempo hábil",
+      "Revise as práticas de gerenciamento de serviços e remova qualquer complexidade desnecessária",
+      "Utilizar as quatro dimensões da gestão de serviços para garantir a coordenação de todos os aspectos de uma iniciativa de melhoria"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador considera a importância da fidelização do cliente?",
     "opcoes": [
-      "A) Progrida iterativamente com feedback",
-      "B) Foco no valor",
-      "C) Otimizar e automatizar",
-      "D) Comece onde você está"
+      "Progrida iterativamente com feedback",
+      "Foco no valor",
+      "Otimizar e automatizar",
+      "Comece onde você está"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual afirmação sobre o uso de medição no princípio orientador “comece onde você está” está CORRETA?",
     "opcoes": [
-      "A) Deve sempre ser usado para apoiar a observação direta",
-      "B) Deve sempre ser usado em vez da observação direta",
-      "C) Os dados medidos são sempre mais precisos do que a observação direta",
-      "D) O ato de medir sempre impacta positivamente os resultados"
+      "Deve sempre ser usado para apoiar a observação direta",
+      "Deve sempre ser usado em vez da observação direta",
+      "Os dados medidos são sempre mais precisos do que a observação direta",
+      "O ato de medir sempre impacta positivamente os resultados"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é o resultado da aplicação do princípio orientador “progredir iterativamente com feedback”?",
     "opcoes": [
-      "A) A capacidade de descobrir e responder ao fracasso mais cedo",
-      "B) Padronização de práticas e serviços",
-      "C) Compreender a percepção de valor do cliente",
-      "D) Compreender o estado atual e identificar o que pode ser reutilizado"
+      "A capacidade de descobrir e responder ao fracasso mais cedo",
+      "Padronização de práticas e serviços",
+      "Compreender a percepção de valor do cliente",
+      "Compreender o estado atual e identificar o que pode ser reutilizado"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador está PRINCIPALMENTE preocupado com a prestação de serviços de ponta a ponta?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Pensar e trabalhar holísticamente",
-      "C) Otimizar e automatizar",
-      "D) Colaborar e promover visibilidade"
+      "Foco no valor",
+      "Pensar e trabalhar holísticamente",
+      "Otimizar e automatizar",
+      "Colaborar e promover visibilidade"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que sempre deve ser feito antes de uma atividade ser automatizada?",
     "opcoes": [
-      "A) Verifique se a atividade já foi otimizada",
-      "B) Verifique se uma nova tecnologia adequada foi adquirida",
-      "C) Garantir que o DevOps tenha sido implementado com sucesso",
-      "D) Garantir que a solução elimine a necessidade de intervenção humana"
+      "Verifique se a atividade já foi otimizada",
+      "Verifique se uma nova tecnologia adequada foi adquirida",
+      "Garantir que o DevOps tenha sido implementado com sucesso",
+      "Garantir que a solução elimine a necessidade de intervenção humana"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Uma organização pede a uma parte interessada que revise uma mudança planejada. Que princípio orientador isso demonstra?",
     "opcoes": [
-      "A) Colaborar e promover visibilidade",
-      "B) Começar onde você está",
-      "C) Foco no valor",
-      "D) Manter de forma simples e prática"
+      "Colaborar e promover visibilidade",
+      "Começar onde você está",
+      "Foco no valor",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador considera a experiência do cliente e do usuário?",
     "opcoes": [
-      "A) Colaborar e promover visibilidade",
-      "B) Foco no valor",
-      "C) Começar onde você está",
-      "D) Manter de forma simples e prática"
+      "Colaborar e promover visibilidade",
+      "Foco no valor",
+      "Começar onde você está",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que são os princípios orientadores?",
     "opcoes": [
-      "A) Um conjunto de atividades interconectadas que ajudam uma organização a fornecer um serviço valioso",
-      "B) Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
-      "C) Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
-      "D) Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
+      "Um conjunto de atividades interconectadas que ajudam uma organização a fornecer um serviço valioso",
+      "Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
+      "Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
+      "Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador ajuda a garantir que cada esforço de melhoria tenha mais foco e seja mais fácil de manter?",
     "opcoes": [
-      "A) Comece de onde você está",
-      "B) Colaborar e promover visibilidade",
-      "C) Progredir iterativamente com feedback",
-      "D) Pense e trabalhar holisticamente"
+      "Comece de onde você está",
+      "Colaborar e promover visibilidade",
+      "Progredir iterativamente com feedback",
+      "Pense e trabalhar holisticamente"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que é recomendado pelo princípio orientador “progredir iterativamente com feedback”?",
     "opcoes": [
-      "A) Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
-      "B) A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
-      "C) Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
-      "D) Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
+      "Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
+      "A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
+      "Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
+      "Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual abordagem é CORRETA ao aplicar o princípio orientador “Manter de forma simples e prática”?",
     "opcoes": [
-      "A) Adicione controles e métricas apenas quando forem necessários",
-      "B) Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
-      "C) Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
-      "D) Adicione apenas controles e métricas necessários para conformidade"
+      "Adicione controles e métricas apenas quando forem necessários",
+      "Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
+      "Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
+      "Adicione apenas controles e métricas necessários para conformidade"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador se concentra na redução de custos e erros humanos?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Colaborar e promover visibilidade",
-      "C) Otimizar e automatizar",
-      "D) Pensar e trabalhar holisticamente"
+      "Foco no valor",
+      "Colaborar e promover visibilidade",
+      "Otimizar e automatizar",
+      "Pensar e trabalhar holisticamente"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Quando uma organização decide melhorar um serviço, deve começar por considerar [?].",
     "opcoes": [
-      "A) informações existentes",
-      "B) novos métodos",
-      "C) medições adicionais",
-      "D) processos revisados"
+      "informações existentes",
+      "novos métodos",
+      "medições adicionais",
+      "processos revisados"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O uso de [?] deve apoiar, e não substituir, o que é observado, ao usar o princípio orientador 'comece onde você está'.",
     "opcoes": [
-      "A) medição",
-      "B) ferramentas",
-      "C) planos",
-      "D) processo"
+      "medição",
+      "ferramentas",
+      "planos",
+      "processo"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador diz que os serviços e processos NÃO devem fornecer uma solução para todas as exceções?",
     "opcoes": [
-      "A) Manter de forma simples e prática",
-      "B) Colaborar e promover visibilidade",
-      "C) Pensar e trabalhar holisticamente",
-      "D) Otimizar e automatizar"
+      "Manter de forma simples e prática",
+      "Colaborar e promover visibilidade",
+      "Pensar e trabalhar holisticamente",
+      "Otimizar e automatizar"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador considera como as etapas de um processo podem ser executadas da maneira mais eficiente possível?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Comece onde você está",
-      "C) Pensar e trabalhar de forma holística",
-      "D) Otimizar e automatizar"
+      "Foco no valor",
+      "Comece onde você está",
+      "Pensar e trabalhar de forma holística",
+      "Otimizar e automatizar"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador considera quais partes de um processo existente devem ser mantidas, identificando como elas contribuem para a criação de valor?",
     "opcoes": [
-      "A) Progredir iterativamente com feedback",
-      "B) Colaborar e promover visibilidade",
-      "C) Pensar e trabalhar holisticamente",
-      "D) Manter de forma simples e prática"
+      "Progredir iterativamente com feedback",
+      "Colaborar e promover visibilidade",
+      "Pensar e trabalhar holisticamente",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador está PRINCIPALMENTE preocupado com a prestação de serviços de ponta a ponta?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Pensar e trabalhar holisticamente",
-      "C) Otimizar e automatizar",
-      "D) Colaborar e promover visibilidade"
+      "Foco no valor",
+      "Pensar e trabalhar holisticamente",
+      "Otimizar e automatizar",
+      "Colaborar e promover visibilidade"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que faz parte do princípio orientador do 'foco no valor'?",
     "opcoes": [
-      "A) Compreender quais serviços ajudam o consumidor de serviços",
-      "B) Reduzindo o número de etapas na experiência do cliente",
-      "C) Avaliação de serviços para identificar peças que podem ser reutilizadas",
-      "D) Identificação de atividades que podem ser alcançadas em iterações menores"
+      "Compreender quais serviços ajudam o consumidor de serviços",
+      "Reduzindo o número de etapas na experiência do cliente",
+      "Avaliação de serviços para identificar peças que podem ser reutilizadas",
+      "Identificação de atividades que podem ser alcançadas em iterações menores"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual princípio orientador ajuda uma organização a compreender o impacto de um elemento alterado em outros elementos de um sistema?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Comece onde você está",
-      "C) Pensar e trabalhar holisticamente",
-      "D) Manter de forma simples e prática"
+      "Foco no valor",
+      "Comece onde você está",
+      "Pensar e trabalhar holisticamente",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual princípio orientador diz que normalmente não é necessário construir algo novo?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Começar de onde você está",
-      "C) Progredir iterativamente com feedback",
-      "D) Pensar e trabalhar holisticamente"
+      "Foco no valor",
+      "Começar de onde você está",
+      "Progredir iterativamente com feedback",
+      "Pensar e trabalhar holisticamente"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Quais DUAS afirmações sobre os princípios orientadores estão CORRETAS?",
     "opcoes": [
-      "A) Os princípios orientadores apoiam a melhoria contínua / Cada princípio orientador aplica-se a uma seleção de grupos de partes interessadas disponíveis",
-      "B) Cada princípio orientador aplica-se a uma seleção de grupos de partes interessadas disponíveis / As organizações devem decidir qual dos princípios orientadores é relevante para elas",
-      "C) As organizações devem decidir qual dos princípios orientadores é relevante para elas / As organizações devem considerar como os princípios orientadores interagem entre si",
-      "D) Os princípios orientadores apoiam a melhoria contínua / As organizações devem considerar como os princípios orientadores interagem entre si"
+      "Os princípios orientadores apoiam a melhoria contínua / Cada princípio orientador aplica-se a uma seleção de grupos de partes interessadas disponíveis",
+      "Cada princípio orientador aplica-se a uma seleção de grupos de partes interessadas disponíveis / As organizações devem decidir qual dos princípios orientadores é relevante para elas",
+      "As organizações devem decidir qual dos princípios orientadores é relevante para elas / As organizações devem considerar como os princípios orientadores interagem entre si",
+      "Os princípios orientadores apoiam a melhoria contínua / As organizações devem considerar como os princípios orientadores interagem entre si"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador desencoraja a 'atividade em silo'?",
     "opcoes": [
-      "A) Foco no valor",
-      "B) Comece de onde você está",
-      "C) Colaborar e promover visibilidade",
-      "D) Manter de forma simples e prática"
+      "Foco no valor",
+      "Comece de onde você está",
+      "Colaborar e promover visibilidade",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual afirmação sobre o princípio orientador 'otimizar e automatizar' está CORRETA?",
     "opcoes": [
-      "A) As atividades devem ser automatizadas antes de serem otimizadas",
-      "B) A automação é melhor aplicada a tarefas não padronizadas",
-      "C) A tecnologia elimina a necessidade de intervenção humana",
-      "D) A automação libera recursos humanos para atividades mais complexas"
+      "As atividades devem ser automatizadas antes de serem otimizadas",
+      "A automação é melhor aplicada a tarefas não padronizadas",
+      "A tecnologia elimina a necessidade de intervenção humana",
+      "A automação libera recursos humanos para atividades mais complexas"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual benefício está MAIS alinhado com o princípio orientador 'progredir iterativamente com feedback'?",
     "opcoes": [
-      "A) Os provedores de serviços são capazes de responder mais rapidamente às necessidades dos clientes",
-      "B) Gargalos no fluxo de trabalho do provedor de serviços são identificados",
-      "C) As complexidades dos sistemas de TI do prestador de serviços são identificadas",
-      "D) O provedor de serviços obtém uma melhor compreensão da experiência do cliente"
+      "Os provedores de serviços são capazes de responder mais rapidamente às necessidades dos clientes",
+      "Gargalos no fluxo de trabalho do provedor de serviços são identificados",
+      "As complexidades dos sistemas de TI do prestador de serviços são identificadas",
+      "O provedor de serviços obtém uma melhor compreensão da experiência do cliente"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "A equipe de uma organização de TI está muito ocupada, realizando principalmente tarefas que agregam pouco ou nenhum valor à organização ou a seus clientes. Qual princípio orientador recomenda que o trabalho desnecessário seja eliminado?",
     "opcoes": [
-      "A) Manter de forma simples e prática",
-      "B) Pensar e trabalhar holisticamente",
-      "C) Comece de onde você está",
-      "D) Progredir iterativamente com feedback"
+      "Manter de forma simples e prática",
+      "Pensar e trabalhar holisticamente",
+      "Comece de onde você está",
+      "Progredir iterativamente com feedback"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que MAIS ajuda uma organização a adaptar os conceitos do ITIL para que se apliquem às circunstâncias específicas da organização?",
     "opcoes": [
-      "A) Melhoria contínua",
-      "B) Cadeia de valor de serviços",
-      "C) Práticas",
-      "D) Princípios orientadores"
+      "Melhoria contínua",
+      "Cadeia de valor de serviços",
+      "Práticas",
+      "Princípios orientadores"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador considera a experiência do cliente e do usuário?",
     "opcoes": [
-      "A) Colaborar e promover visibilidade",
-      "B) Foco no valor",
-      "C) Comece de onde você está",
-      "D) Manter de forma simples e prática"
+      "Colaborar e promover visibilidade",
+      "Foco no valor",
+      "Comece de onde você está",
+      "Manter de forma simples e prática"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual abordagem é CORRETA ao aplicar o princípio orientador 'Manter de forma simples e prática'?",
     "opcoes": [
-      "A) Adicione controles e métricas apenas quando forem necessários",
-      "B) Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
-      "C) Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
-      "D) Adicione apenas controles e métricas necessários para conformidade"
+      "Adicione controles e métricas apenas quando forem necessários",
+      "Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
+      "Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
+      "Adicione apenas controles e métricas necessários para conformidade"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que é recomendado pelo princípio orientador 'progredir iterativamente com feedback'?",
     "opcoes": [
-      "A) Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
-      "B) A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
-      "C) Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
-      "D) Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
+      "Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
+      "A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
+      "Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
+      "Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que são os princípios orientadores?",
     "opcoes": [
-      "A) Um conjunto de atividades interconectadas que ajudam uma organização a prestar um serviço valioso",
-      "B) Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
-      "C) Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
-      "D) Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
+      "Um conjunto de atividades interconectadas que ajudam uma organização a prestar um serviço valioso",
+      "Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
+      "Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
+      "Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
     ],
     "resposta_correta": "D"
   }

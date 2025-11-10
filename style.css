@@ -171,3 +171,46 @@ h1, h2 {
     border-radius: 5px;
     transition: width 0.4s ease-in-out; /* Animação suave ao progredir */
 }
+/* --- ESTILO PARA NAVEGAÇÃO DE QUESTÕES (NOVOS) --- */
+#question-nav {
+    display: flex;
+    flex-wrap: wrap; /* Permite que os números quebrem a linha */
+    gap: 8px; /* Espaço entre os botões de número */
+    justify-content: center;
+    margin-top: 20px;
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+}
+
+.nav-link {
+    width: 35px;
+    height: 35px;
+    line-height: 35px; /* Centraliza o número verticalmente */
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+    font-size: 14px;
+    transition: background-color 0.2s, color 0.2s;
+    user-select: none; /* Impede a seleção do texto do número */
+}
+
+.nav-link:hover {
+    background-color: #e2e6ea;
+}
+
+/* Estilo para a questão que já foi respondida */
+.nav-link.answered {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+/* Estilo para a questão atual */
+.nav-link.current {
+    background-color: #343a40; /* Cor escura para destacar */
+    color: white;
+    border-color: #343a40;
+    font-weight: bold;
+}

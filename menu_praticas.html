@@ -30,10 +30,10 @@
             }
         });
         
-        // Adiciona também o registro do Service Worker
+        
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                // Certifique-se que este caminho está correto para o seu repositório do GitHub
+                
                 navigator.serviceWorker.register('/simulados-itil-4-fundamentos/sw.js') 
                     .then(reg => console.log('Service worker registrado.'))
                     .catch(err => console.log('Service worker não registrado:', err));

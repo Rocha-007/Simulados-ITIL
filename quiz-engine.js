@@ -12,13 +12,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const percentageEl = document.getElementById('percentage');
     const progressBarEl = document.getElementById('progress-bar');
     const backLink = document.querySelector('.back-to-menu a');
+    const questionNavEl = document.getElementById('question-nav'); // <-- NOVO ELEMENTO
 
-    // --- VARIÁVEIS DE ESTADO 
+    // --- VARIÁVEIS DE ESTADO ---
     let questions = [];
     let currentQuestionIndex = 0;
     let questionStates = [];
-    
-    // --- MAPA DE CONFIGURAÇÃO DE TODOS OS SIMULADOS 
+    const optionLetters = ['A', 'B', 'C', 'D'];
+
+    // --- MAPA DE CONFIGURAÇÃO DE TODOS OS SIMULADOS ---
     const quizConfig = {
         '1': { title: 'Simulado 1 ITIL 4 fundamentos', file: 'perguntas1.json', back: 'index.html' },
         '2': { title: 'Simulado 2 ITIL 4 fundamentos', file: 'perguntas2.json', back: 'index.html' },
@@ -28,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         '6': { title: 'Simulado 6 ITIL 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
         '7': { title: 'Simulado 7 ITIL 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
         '8': { title: 'Simulado 8 ITIL 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
-        '9': { title: 'Simulado 9 ITIL 4 fundamentos', file: 'perguntas9.json', back: 'index.html' }, 
+        '9': { title: 'Simulado 9 ITIL 4 fundamentos', file: 'perguntas9.json', back: 'index.html' },
         'conceitos': { title: 'Simulado por Tópico: Conceitos Chave', file: 'perguntas_conceitos.json', back: 'index.html' },
         'principios': { title: 'Simulado por Tópico: 7 Princípios Orientadores', file: 'perguntas_principios.json', back: 'index.html' },
         'dimensoes': { title: 'Simulado por Tópico: 4 Dimensões', file: 'perguntas_dimensoes.json', back: 'index.html' },
@@ -58,7 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
             loadQuestions(config.file);
         } else {
             quizTitleEl.textContent = 'Erro: Simulado não encontrado!';
-            quizContainerEl.classList.add('hidden');
+            if(quizContainerEl) quizContainerEl.classList.add('hidden');
         }
     }
 
@@ -70,22 +72,58 @@ document.addEventListener('DOMContentLoaded', () => {
             questions.sort(() => Math.random() - 0.5);
             startQuiz();
         } catch (error) {
-            questionEl.innerText = `Erro ao carregar as perguntas. Verifique o console.`;
+            if(questionEl) questionEl.innerText = `Erro ao carregar as perguntas. Verifique o console.`;
             console.error(error);
         }
     }
     
     function startQuiz() {
         currentQuestionIndex = 0;
-        questionStates = new Array(questions.length).fill(null).map(() => ({ answered: false, userAnswer: null }));
-        resultContainerEl.classList.add('hidden');
-        quizContainerEl.classList.remove('hidden');
+        questionStates = new Array(questions.length).fill(null).map(() => ({ answered: false, userAnswerIndex: null })); 
+        if(resultContainerEl) resultContainerEl.classList.add('hidden');
+        if(quizContainerEl) quizContainerEl.classList.remove('hidden');
+        
+        createNavigation(); // <-- NOVA FUNÇÃO CHAMADA
         updateProgressBar();
         showQuestion();
     }
     
+    // --- NOVAS FUNÇÕES DE NAVEGAÇÃO ---
+    
+    function createNavigation() {
+        questionNavEl.innerHTML = '';
+        questions.forEach((_, index) => {
+            const navLink = document.createElement('span');
+            navLink.innerText = index + 1;
+            navLink.classList.add('nav-link');
+            navLink.dataset.index = index;
+            navLink.addEventListener('click', () => jumpToQuestion(index));
+            questionNavEl.appendChild(navLink);
+        });
+    }
+    
+    function updateNavigation() {
+        const navLinks = document.querySelectorAll('.nav-link');
+        navLinks.forEach((link, index) => {
+            link.classList.remove('current', 'answered');
+            if (questionStates[index].answered) {
+                link.classList.add('answered');
+            }
+            if (index === currentQuestionIndex) {
+                link.classList.add('current');
+            }
+        });
+    }
+
+    function jumpToQuestion(index) {
+        currentQuestionIndex = index;
+        showQuestion();
+    }
+    
+    // --- FUNÇÕES ATUALIZADAS ---
+
     function updateProgressBar() {
-        if (questions.length > 0) {
+        if (questions.length > 0 && progressBarEl) {
             const answeredCount = questionStates.filter(state => state.answered).length;
             const progressPercentage = (answeredCount / questions.length) * 100;
             progressBarEl.style.width = `${progressPercentage}%`;
@@ -93,6 +131,10 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showQuestion() {
+        if (!questions || questions.length === 0 || !questionEl || !optionsContainerEl || !prevBtn || !nextBtn) return;
+
+        updateNavigation(); // <-- ATUALIZA O ESTADO DOS NÚMEROS
+
         const currentQuestion = questions[currentQuestionIndex];
         const state = questionStates[currentQuestionIndex];
         
@@ -100,9 +142,10 @@ document.addEventListener('DOMContentLoaded', () => {
         optionsContainerEl.innerHTML = '';
         nextBtn.classList.remove('hidden');
 
-        currentQuestion.opcoes.forEach(optionText => {
+        currentQuestion.opcoes.forEach((optionText, index) => {
             const button = document.createElement('button');
-            button.innerText = optionText;
+            button.innerText = `${optionLetters[index]}) ${optionText}`; 
+            button.dataset.index = index; 
             button.classList.add('option-btn');
             optionsContainerEl.appendChild(button);
 
@@ -112,14 +155,14 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         if (state.answered) {
-            const correctAnswerLetter = currentQuestion.resposta_correta;
+            const correctAnswerIndex = currentQuestion.resposta_correta;
             Array.from(optionsContainerEl.children).forEach(btn => {
                 btn.disabled = true;
-                const optionLetter = btn.innerText.substring(0, 1);
-                if (optionLetter === correctAnswerLetter) {
+                const optionIndex = parseInt(btn.dataset.index);
+                if (optionIndex === correctAnswerIndex) {
                     btn.classList.add('correct');
                 }
-                if (btn.innerText === state.userAnswer && optionLetter !== correctAnswerLetter) {
+                if (optionIndex === state.userAnswerIndex && optionIndex !== correctAnswerIndex) {
                     btn.classList.add('incorrect');
                 }
             });
@@ -129,37 +172,39 @@ document.addEventListener('DOMContentLoaded', () => {
         nextBtn.innerText = currentQuestionIndex === questions.length - 1 ? 'Ver Resultado' : 'Próxima Pergunta';
     }
 
-    function selectAnswer(selectedButton, correctAnswerLetter) {
-        const userAnswerLetter = selectedButton.innerText.substring(0, 1);
+    function selectAnswer(selectedButton, correctAnswerIndex) {
+        const userIndex = parseInt(selectedButton.dataset.index); 
         
         questionStates[currentQuestionIndex].answered = true;
-        questionStates[currentQuestionIndex].userAnswer = selectedButton.innerText;
+        questionStates[currentQuestionIndex].userAnswerIndex = userIndex; 
 
         Array.from(optionsContainerEl.children).forEach(btn => {
             btn.disabled = true;
-            if (btn.innerText.substring(0, 1) === correctAnswerLetter) {
+            const optionIndex = parseInt(btn.dataset.index);
+            if (optionIndex === correctAnswerIndex) {
                 btn.classList.add('correct');
             }
         });
 
-        if (userAnswerLetter === correctAnswerLetter) {
+        if (userIndex === correctAnswerIndex) {
             selectedButton.classList.add('correct');
         } else {
             selectedButton.classList.add('incorrect');
         }
+        
         updateProgressBar();
+        updateNavigation(); // <-- ATUALIZA O NÚMERO PARA "RESPONDIDO"
     }
 
     function showResult() {
-        quizContainerEl.classList.add('hidden');
-        resultContainerEl.classList.remove('hidden');
+        if(quizContainerEl) quizContainerEl.classList.add('hidden');
+        if(resultContainerEl) resultContainerEl.classList.remove('hidden');
         
         let finalScore = 0;
         questionStates.forEach((state, index) => {
             if (state.answered) {
-                const correctLetter = questions[index].resposta_correta;
-                const userLetter = state.userAnswer.substring(0, 1);
-                if(userLetter === correctLetter) {
+                const correctAnswerIndex = questions[index].resposta_correta;
+                if(state.userAnswerIndex === correctAnswerIndex) {
                     finalScore++;
                 }
             }
@@ -168,36 +213,46 @@ document.addEventListener('DOMContentLoaded', () => {
         const totalQuestions = questions.length;
         const percentage = (totalQuestions > 0) ? (finalScore / totalQuestions) * 100 : 0;
         
-        scoreEl.innerText = `Você acertou ${finalScore} de ${totalQuestions} perguntas.`;
-        percentageEl.innerText = `Sua pontuação final: ${percentage.toFixed(2)}%`;
+        if(scoreEl) scoreEl.innerText = `Você acertou ${finalScore} de ${totalQuestions} perguntas.`;
+        if(percentageEl) percentageEl.innerText = `Sua pontuação final: ${percentage.toFixed(2)}%`;
     }
 
-    prevBtn.addEventListener('click', () => {
-        if (currentQuestionIndex > 0) {
-            currentQuestionIndex--;
-            showQuestion();
-        }
-    });
+    // --- EVENT LISTENERS (sem alteração) ---
+    if(prevBtn) {
+        prevBtn.addEventListener('click', () => {
+            if (currentQuestionIndex > 0) {
+                currentQuestionIndex--;
+                showQuestion();
+            }
+        });
+    }
 
-    nextBtn.addEventListener('click', () => {
-        if (currentQuestionIndex < questions.length - 1) {
-            currentQuestionIndex++;
-            showQuestion();
-        } else {
-            showResult();
-        }
-    });
-    
-    // --- NOVO CÓDIGO: Atalho da tecla 'Esc' ---
-    // Adiciona um "ouvinte" para o evento de pressionar uma tecla no documento inteiro
+    if(nextBtn) {
+        nextBtn.addEventListener('click', () => {
+            if (currentQuestionIndex < questions.length - 1) {
+                currentQuestionIndex++;
+                showQuestion();
+            } else {
+                showResult();
+            }
+        });
+    }
+
     document.addEventListener('keydown', function(event) {
-        // Verifica se a tecla pressionada foi a 'Escape'
-        if (event.key === 'Escape') {
-            // Se foi, redireciona o usuário para a página do menu principal
-            window.location.href = 'index.html';
+        if (quizContainerEl && !quizContainerEl.classList.contains('hidden')) { 
+            if (event.key === 'Escape') {
+                const urlParams = new URLSearchParams(window.location.search);
+                const quizId = urlParams.get('id');
+                const config = quizConfig[quizId];
+                if(config && config.back) {
+                     window.location.href = config.back;
+                } else {
+                     window.location.href = 'index.html';
+                }
+            }
         }
     });
 
-    // Inicia todo o processo
+    
     initializePage();
 });

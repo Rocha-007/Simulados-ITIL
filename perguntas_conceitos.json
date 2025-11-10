@@ -2,400 +2,400 @@
   {
     "pergunta": "Um serviço é um meio que permite a cocriação de valor ao facilitar [?] que os clientes desejam alcançar.",
     "opcoes": [
-      "A) a garantia",
-      "B) os resultados",
-      "C) a utilidade",
-      "D) as saídas"
+      "a garantia",
+      "os resultados",
+      "a utilidade",
+      "as saídas"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual papel pode enviar requisições de serviço?",
     "opcoes": [
-      "A) O usuário ou o representante autorizado dele",
-      "B) O cliente ou o representante autorizado dele",
-      "C) O patrocinador ou o representante autorizado dele",
-      "D) O fornecedor ou o representante autorizado dele"
+      "O usuário ou o representante autorizado dele",
+      "O cliente ou o representante autorizado dele",
+      "O patrocinador ou o representante autorizado dele",
+      "O fornecedor ou o representante autorizado dele"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Quais são os dois tipos de custos que um consumidor de serviço deve avaliar?",
     "opcoes": [
-      "A) O preço do serviço e o custo de criar o serviço",
-      "B) Os custos removidos pelo serviço e os custos impostos pelo serviço",
-      "C) O custo de fornecer o serviço e o custo de melhorá-lo",
-      "D) O custo do software e o custo do hardware"
+      "O preço do serviço e o custo de criar o serviço",
+      "Os custos removidos pelo serviço e os custos impostos pelo serviço",
+      "O custo de fornecer o serviço e o custo de melhorá-lo",
+      "O custo do software e o custo do hardware"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual das opções a seguir oferece uma descrição de resultados?",
     "opcoes": [
-      "A) Entregáveis tangíveis ou intangíveis",
-      "B) Funcionalidade oferecida por um produto ou serviço",
-      "C) Consequências desejadas por uma parte interessada",
-      "D) Configuração dos recursos de uma organização"
+      "Entregáveis tangíveis ou intangíveis",
+      "Funcionalidade oferecida por um produto ou serviço",
+      "Consequências desejadas por uma parte interessada",
+      "Configuração dos recursos de uma organização"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Um provedor de serviço descreve um pacote que abrange um computador com software, licenças e suporte. Esse pacote é um exemplo de quê?",
     "opcoes": [
-      "A) Valor",
-      "B) Resultado",
-      "C) Garantia",
-      "D) Oferta de serviço"
+      "Valor",
+      "Resultado",
+      "Garantia",
+      "Oferta de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual das opções a seguir é a definição de garantia?",
     "opcoes": [
-      "A) Entregável tangível ou intangível produzido pela realização de uma atividade",
-      "B) Confirmação de que um produto ou serviço atenderá aos requisitos acordados",
-      "C) Possível evento que pode causar perdas ou danos, ou dificultar o atingimento de objetivos",
-      "D) Funcionalidade oferecida por um produto ou serviço para atender a uma necessidade em particular"
+      "Entregável tangível ou intangível produzido pela realização de uma atividade",
+      "Confirmação de que um produto ou serviço atenderá aos requisitos acordados",
+      "Possível evento que pode causar perdas ou danos, ou dificultar o atingimento de objetivos",
+      "Funcionalidade oferecida por um produto ou serviço para atender a uma necessidade em particular"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual termo descreve a funcionalidade oferecida por um serviço?",
     "opcoes": [
-      "A) Custo",
-      "B) Utilidade",
-      "C) Garantia",
-      "D) Risco"
+      "Custo",
+      "Utilidade",
+      "Garantia",
+      "Risco"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Que atividade conjunta realizada por um provedor de serviço e um consumidor de serviço garante a cocriação contínua de valor?",
     "opcoes": [
-      "A) Provisão de serviço",
-      "B) Consumo de serviço",
-      "C) Oferta de serviço",
-      "D) Gerenciamento de relacionamento de serviço"
+      "Provisão de serviço",
+      "Consumo de serviço",
+      "Oferta de serviço",
+      "Gerenciamento de relacionamento de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual das opções a seguir é um meio de permitir a cocriação de valor ao se facilitar os resultados que os clientes desejam alcançar?",
     "opcoes": [
-      "A) Um serviço",
-      "B) Uma saída",
-      "C) Uma prática",
-      "D) Melhoria contínua"
+      "Um serviço",
+      "Uma saída",
+      "Uma prática",
+      "Melhoria contínua"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Um cliente é o papel que define os requisitos para um serviço e assume a responsabilidade [?] do consumo desse serviço.",
     "opcoes": [
-      "A) pelas saídas",
-      "B) pelos resultados",
-      "C) pelos custos",
-      "D) pelos riscos"
+      "pelas saídas",
+      "pelos resultados",
+      "pelos custos",
+      "pelos riscos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que é uma saída?",
     "opcoes": [
-      "A) Uma mudança de estado que tenha relevância para o gerenciamento de um item de configuração",
-      "B) Um possível evento que pode causar perdas ou danos",
-      "C) Uma consequência ou um efeito para uma parte interessada",
-      "D) Algo criado através da realização de uma atividade"
+      "Uma mudança de estado que tenha relevância para o gerenciamento de um item de configuração",
+      "Um possível evento que pode causar perdas ou danos",
+      "Uma consequência ou um efeito para uma parte interessada",
+      "Algo criado através da realização de uma atividade"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que varia em tamanho e complexidade e utiliza funções para atingir seus objetivos?",
     "opcoes": [
-      "A) Um risco",
-      "B) Uma organização",
-      "C) Uma prática",
-      "D) Um resultado"
+      "Um risco",
+      "Uma organização",
+      "Uma prática",
+      "Um resultado"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Que termo é usado para descrever se um serviço atenderá aos requisitos de disponibilidade, capacidade e segurança?",
     "opcoes": [
-      "A) Resultados",
-      "B) Valor",
-      "C) Utilidade",
-      "D) Garantia"
+      "Resultados",
+      "Valor",
+      "Utilidade",
+      "Garantia"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que dá ao usuário acesso a um sistema?",
     "opcoes": [
-      "A) Requisição de serviço",
-      "B) Contrato de serviço",
-      "C) Consumo de serviço",
-      "D) Provisão de serviços"
+      "Requisição de serviço",
+      "Contrato de serviço",
+      "Consumo de serviço",
+      "Provisão de serviços"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Nas relações de serviço, qual é a vantagem de identificar os papéis do consumidor?",
     "opcoes": [
-      "A) Permite uma gestão eficaz das partes interessadas",
-      "B) Fornece expectativas de serviço compartilhado",
-      "C) Remove restrições do cliente",
-      "D) Permite uma definição comum de valor"
+      "Permite uma gestão eficaz das partes interessadas",
+      "Fornece expectativas de serviço compartilhado",
+      "Remove restrições do cliente",
+      "Permite uma definição comum de valor"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que pode ser usado para determinar se um serviço é “adequado à finalidade”?",
     "opcoes": [
-      "A) Disponibilidade",
-      "B) Garantia",
-      "C) Resultado",
-      "D) Utilidade"
+      "Disponibilidade",
+      "Garantia",
+      "Resultado",
+      "Utilidade"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que é um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes na forma de serviços?",
     "opcoes": [
-      "A) Oferta de serviços",
-      "B) Prestação de serviços",
-      "C) Gestão de serviços",
-      "D) Consumo de serviço"
+      "Oferta de serviços",
+      "Prestação de serviços",
+      "Gestão de serviços",
+      "Consumo de serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Um usuário é [?] que usa serviços.",
     "opcoes": [
-      "A) uma organização",
-      "B) um papel",
-      "C) uma equipe",
-      "D) um fornecedor"
+      "uma organização",
+      "um papel",
+      "uma equipe",
+      "um fornecedor"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que MELHOR descreve a utilidade de um serviço?",
     "opcoes": [
-      "A) Um serviço adequado para uso",
-      "B) Um serviço que atende às suas metas de nível de serviço",
-      "C) Um serviço que aumenta as restrições ao consumidor",
-      "D) Um serviço que apoia o desempenho do consumidor"
+      "Um serviço adequado para uso",
+      "Um serviço que atende às suas metas de nível de serviço",
+      "Um serviço que aumenta as restrições ao consumidor",
+      "Um serviço que apoia o desempenho do consumidor"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual afirmação sobre saídas está CORRETA?",
     "opcoes": [
-      "A) Eles consistem em vários resultados",
-      "B) Eles capturam a demanda dos clientes por serviços",
-      "C) Contribuem para a obtenção de resultados",
-      "D) Eles descrevem o desempenho do serviço"
+      "Eles consistem em vários resultados",
+      "Eles capturam a demanda dos clientes por serviços",
+      "Contribuem para a obtenção de resultados",
+      "Eles descrevem o desempenho do serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual função aprova o custo dos serviços?",
     "opcoes": [
-      "A) Usuário",
-      "B) Autoridade de mudança",
-      "C) Patrocinador",
-      "D) Cliente"
+      "Usuário",
+      "Autoridade de mudança",
+      "Patrocinador",
+      "Cliente"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Uma oferta de serviço pode incluir bens, acesso a recursos e ações de serviço. Qual é um exemplo de ação de serviço?",
     "opcoes": [
-      "A) Um telefone celular permite que um usuário trabalhe remotamente",
-      "B) Uma senha permite que um usuário se conecte a uma rede WiFi",
-      "C) Uma licença permite que um usuário instale um produto de software",
-      "D) Um agente de central de serviços fornece suporte a um usuário"
+      "Um telefone celular permite que um usuário trabalhe remotamente",
+      "Uma senha permite que um usuário se conecte a uma rede WiFi",
+      "Uma licença permite que um usuário instale um produto de software",
+      "Um agente de central de serviços fornece suporte a um usuário"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual termo se refere aos níveis de serviço alinhados com as necessidades dos consumidores de serviços?",
     "opcoes": [
-      "A) Gestão de serviços",
-      "B) Garantia",
-      "C) Custo",
-      "D) Utilidade"
+      "Gestão de serviços",
+      "Garantia",
+      "Custo",
+      "Utilidade"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que um serviço pode retirar do consumidor e impor ao consumidor?",
     "opcoes": [
-      "A) Utilidade",
-      "B) Ativo",
-      "C) Custo",
-      "D) Resultado"
+      "Utilidade",
+      "Ativo",
+      "Custo",
+      "Resultado"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que é um serviço?",
     "opcoes": [
-      "A) Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos",
-      "B) Um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos",
-      "C) Uma entrega tangível ou intangível de uma atividade",
-      "D) Atividades conjuntas realizadas por um prestador de serviços e um consumidor de serviços para garantir a cocriação contínua de valor com base em ofertas de serviços acordadas e disponíveis"
+      "Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos",
+      "Um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos",
+      "Uma entrega tangível ou intangível de uma atividade",
+      "Atividades conjuntas realizadas por um prestador de serviços e um consumidor de serviços para garantir a cocriação contínua de valor com base em ofertas de serviços acordadas e disponíveis"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o risco que pode ser removido de um consumidor de serviço por um serviço de TI?",
     "opcoes": [
-      "A) Prestador de serviços cessando a atividade",
-      "B) Violação de segurança",
-      "C) Falha no hardware do servidor",
-      "D) Custo de aquisição de servidores"
+      "Prestador de serviços cessando a atividade",
+      "Violação de segurança",
+      "Falha no hardware do servidor",
+      "Custo de aquisição de servidores"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Quem assume a responsabilidade pelos resultados do consumo de serviços?",
     "opcoes": [
-      "A) Organização",
-      "B) Patrocinador",
-      "C) Cliente",
-      "D) Provedor de serviços"
+      "Organização",
+      "Patrocinador",
+      "Cliente",
+      "Provedor de serviços"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual ação é executada por um provedor de serviços?",
     "opcoes": [
-      "A) Solicitando ações de serviço necessárias",
-      "B) Autorização de orçamento para consumo de serviços",
-      "C) Garantir o acesso aos recursos acordados",
-      "D) Recebimento das mercadorias acordadas"
+      "Solicitando ações de serviço necessárias",
+      "Autorização de orçamento para consumo de serviços",
+      "Garantir o acesso aos recursos acordados",
+      "Recebimento das mercadorias acordadas"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual afirmação sobre gerenciamento de relacionamento está CORRETA?",
     "opcoes": [
-      "A) Centra-se nas ações de serviço realizadas pelos usuários",
-      "B) Requer que o consumidor do serviço crie recursos para o provedor de serviços",
-      "C) Requer cooperação tanto do prestador de serviços quanto do consumidor do serviço",
-      "D) Centra-se no cumprimento das ações de serviço acordadas"
+      "Centra-se nas ações de serviço realizadas pelos usuários",
+      "Requer que o consumidor do serviço crie recursos para o provedor de serviços",
+      "Requer cooperação tanto do prestador de serviços quanto do consumidor do serviço",
+      "Centra-se no cumprimento das ações de serviço acordadas"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual afirmação sobre resultados está CORRETA?",
     "opcoes": [
-      "A) São resultados fornecidos aos consumidores de serviços",
-      "B) Consequência ou efeito para uma parte interessada habilitado por uma ou mais saídas",
-      "C) Eles fornecem produtos aos prestadores de serviços com base nos resultados",
-      "D) Eles co-criam valor para os prestadores de serviços, reduzindo custos e riscos"
+      "São resultados fornecidos aos consumidores de serviços",
+      "Consequência ou efeito para uma parte interessada habilitado por uma ou mais saídas",
+      "Eles fornecem produtos aos prestadores de serviços com base nos resultados",
+      "Eles co-criam valor para os prestadores de serviços, reduzindo custos e riscos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que descreve a utilidade de um serviço?",
     "opcoes": [
-      "A) Um serviço adequado para uso",
-      "B) Um serviço que atende às suas metas de nível de serviço",
-      "C) Um serviço que aumenta as restrições ao consumidor",
-      "D) Um serviço que apoia o desempenho do consumidor"
+      "Um serviço adequado para uso",
+      "Um serviço que atende às suas metas de nível de serviço",
+      "Um serviço que aumenta as restrições ao consumidor",
+      "Um serviço que apoia o desempenho do consumidor"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que faz parte da definição de cliente?",
     "opcoes": [
-      "A) A função que define os requisitos de um serviço",
-      "B) Um meio de permitir a cocriação de valor",
-      "C) O papel que autoriza orçamento para consumo de serviços",
-      "D) Um conjunto de capacidades organizacionais especializadas para gerar valor"
+      "A função que define os requisitos de um serviço",
+      "Um meio de permitir a cocriação de valor",
+      "O papel que autoriza orçamento para consumo de serviços",
+      "Um conjunto de capacidades organizacionais especializadas para gerar valor"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a definição de garantia?",
     "opcoes": [
-      "A) Um meio de identificar eventos que possam causar danos ou perdas",
-      "B) Um meio de determinar se um serviço é adequado à finalidade",
-      "C) Um meio de identificar um resultado para uma parte interessada",
-      "D) Um meio de determinar se um serviço é adequado para uso"
+      "Um meio de identificar eventos que possam causar danos ou perdas",
+      "Um meio de determinar se um serviço é adequado à finalidade",
+      "Um meio de identificar um resultado para uma parte interessada",
+      "Um meio de determinar se um serviço é adequado para uso"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que é um ativo de TI?",
     "opcoes": [
-      "A) Qualquer componente financeiramente valioso que possa contribuir para a entrega de um produto ou serviço de TI",
-      "B) Qualquer componente que precise ser gerenciado para entregar um serviço",
-      "C) Uma solicitação de um usuário que inicia uma ação de serviço",
-      "D) A remoção de qualquer coisa que possa ter um efeito direto ou indireto nos serviços"
+      "Qualquer componente financeiramente valioso que possa contribuir para a entrega de um produto ou serviço de TI",
+      "Qualquer componente que precise ser gerenciado para entregar um serviço",
+      "Uma solicitação de um usuário que inicia uma ação de serviço",
+      "A remoção de qualquer coisa que possa ter um efeito direto ou indireto nos serviços"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual afirmação sobre resultados está CORRETA?",
     "opcoes": [
-      "A) Os resultados dependem de produtos para produzir resultados para uma parte interessada",
-      "B) Os resultados utilizam atividades para produzir resultados tangíveis ou intangíveis",
-      "C) Os resultados dão aos consumidores de serviços garantia de produtos ou serviços",
-      "D) Os resultados ajudam um consumidor de serviços a avaliar o custo de uma atividade específica"
+      "Os resultados dependem de produtos para produzir resultados para uma parte interessada",
+      "Os resultados utilizam atividades para produzir resultados tangíveis ou intangíveis",
+      "Os resultados dão aos consumidores de serviços garantia de produtos ou serviços",
+      "Os resultados ajudam um consumidor de serviços a avaliar o custo de uma atividade específica"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Quais custos estão incluídos na proposta de valor de um serviço?",
     "opcoes": [
-      "A) Despesas adicionais que o consumidor do serviço tem porque está usando o serviço",
-      "B) Dinheiro que o consumidor do serviço não precisa mais gastar porque está usando o serviço",
-      "C) Resultados tangíveis ou intangíveis para o consumidor do serviço porque ele está utilizando o serviço",
-      "D) Os benefícios, utilidade e importância do serviço que são percebidos pelo consumidor do serviço"
+      "Despesas adicionais que o consumidor do serviço tem porque está usando o serviço",
+      "Dinheiro que o consumidor do serviço não precisa mais gastar porque está usando o serviço",
+      "Resultados tangíveis ou intangíveis para o consumidor do serviço porque ele está utilizando o serviço",
+      "Os benefícios, utilidade e importância do serviço que são percebidos pelo consumidor do serviço"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Um cliente define [?] para um serviço e assume a responsabilidade pelos resultados do consumo do serviço.",
     "opcoes": [
-      "A) requisitos",
-      "B) recursos",
-      "C) fornecedores",
-      "D) produtos"
+      "requisitos",
+      "recursos",
+      "fornecedores",
+      "produtos"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual afirmação sobre resultados está CORRETA?",
     "opcoes": [
-      "A) Os resultados permitem que os produtos sejam entregues a uma parte interessada",
-      "B) Um resultado define a quantidade de dinheiro gasto em tecnologia para um serviço",
-      "C) Um resultado depende de pelo menos uma saída para produzir um resultado",
-      "D) Os resultados providenciem garantia às partes interessadas sobre o desempenho de um serviço"
+      "Os resultados permitem que os produtos sejam entregues a uma parte interessada",
+      "Um resultado define a quantidade de dinheiro gasto em tecnologia para um serviço",
+      "Um resultado depende de pelo menos uma saída para produzir um resultado",
+      "Os resultados providenciem garantia às partes interessadas sobre o desempenho de um serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual termo se refere aos níveis de serviço alinhados com as necessidades dos consumidores de serviços?",
     "opcoes": [
-      "A) Gestão de serviços",
-      "B) Garantia",
-      "C) Custo",
-      "D) Utilidade"
+      "Gestão de serviços",
+      "Garantia",
+      "Custo",
+      "Utilidade"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual das alternativas a seguir garante que um provedor de serviços e um consumidor de serviços co-criem continuamente valor?",
     "opcoes": [
-      "A) Consumo de serviço",
-      "B) Ofertas de serviços",
-      "C) Gerenciamento de nível de serviço",
-      "D) Gestão de relacionamento de serviço"
+      "Consumo de serviço",
+      "Ofertas de serviços",
+      "Gerenciamento de nível de serviço",
+      "Gestão de relacionamento de serviço"
     ],
     "resposta_correta": "D"
   }
