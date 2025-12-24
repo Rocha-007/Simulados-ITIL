@@ -2,140 +2,140 @@
   {
     "pergunta": "Qual dimensão do gerenciamento de serviço se concentra nas atividades e em como elas são coordenadas?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos de valor e processos"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos de valor e processos"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que NÃO é o foco principal da dimensão “informação e tecnologia”?",
     "opcoes": [
-      "Segurança e conformidade",
-      "Sistemas de comunicação e bases de conhecimento",
-      "Sistemas de gerenciamento de fluxo de trabalho e de inventário",
-      "Papéis e responsabilidades"
+      "A) Segurança e conformidade",
+      "B) Sistemas de comunicação e bases de conhecimento",
+      "C) Sistemas de gerenciamento de fluxo de trabalho e de inventário",
+      "D) Papéis e responsabilidades"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual dimensão do gerenciamento de serviço considera governança, gerenciamento e comunicação?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos de valor e processos"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos de valor e processos"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual consideração influencia a estratégia de fornecedores de uma organização?",
     "opcoes": [
-      "Contratos e acordos",
-      "Tipo de cooperação com fornecedores",
-      "Cultura corporativa da organização",
-      "Nível de formalidade"
+      "A) Contratos e acordos",
+      "B) Tipo de cooperação com fornecedores",
+      "C) Cultura corporativa da organização",
+      "D) Nível de formalidade"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que deve ser considerado como parte da dimensão “parceiros e fornecedores”?",
     "opcoes": [
-      "O nível de integração e formalidade envolvido nas relações entre organizações",
-      "As atividades, fluxos de trabalho, controles e procedimentos necessários para atingir os objetivos acordados",
-      "A informação criada, gerida e utilizada no decurso da prestação e consumo de serviços",
-      "As habilidades e competências exigidas das equipes e dos membros individuais da organização"
+      "A) O nível de integração e formalidade envolvido nas relações entre organizações",
+      "B) As atividades, fluxos de trabalho, controles e procedimentos necessários para atingir os objetivos acordados",
+      "C) A informação criada, gerida e utilizada no decurso da prestação e consumo de serviços",
+      "D) As habilidades e competências exigidas das equipes e dos membros individuais da organização"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual dimensão se concentra nos relacionamentos com outras organizações envolvidas na concepção, desenvolvimento, implantação e prestação de serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual dimensão está MAIS preocupada com habilidades, competências, papéis e responsabilidades?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual dimensão considera a segurança e a privacidade dos dados?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual dimensão inclui o conhecimento necessário para a gestão dos serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que é considerado pela dimensão ‘parceiros e fornecedores’?",
     "opcoes": [
-      "Uso de inteligência artificial",
-      "Definir de controles e procedimentos",
-      "Usar funções e responsabilidades formais",
-      "Trabalhar com um integrador para gerenciar relacionamentos"
+      "A) Uso de inteligência artificial",
+      "B) Definir de controles e procedimentos",
+      "C) Usar funções e responsabilidades formais",
+      "D) Trabalhar com um integrador para gerenciar relacionamentos"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual dimensão do gerenciamento de serviços considera os fluxos de trabalho e controles necessários para entregar serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos de valor e processos"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos de valor e processos"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Quais DOIS são considerados parte da dimensão 'organizações e pessoas' da gestão de serviços?",
     "opcoes": [
-      "Sistemas de autoridade e Cultura",
-      "Cultura e Relações entre organizações",
-      "Relações entre organizações e Fluxos de trabalho",
-      "Sistemas de autoridade e Fluxos de trabalho"
+      "A) Sistemas de autoridade e Cultura",
+      "B) Cultura e Relações entre organizações",
+      "C) Relações entre organizações e Fluxos de trabalho",
+      "D) Sistemas de autoridade e Fluxos de trabalho"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual das quatro dimensões inclui as bases de conhecimento necessárias para fornecer e gerenciar serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos de valor e processos"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos de valor e processos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual dimensão considera a aplicação da inteligência artificial à gestão de serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "B"
   }

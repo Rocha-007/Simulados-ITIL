@@ -2,90 +2,90 @@
   {
     "pergunta": "Qual conceito da ITIL descreve a governança?",
     "opcoes": [
-      "Os sete princípios orientadores",
-      "As quatro dimensões do gerenciamento de serviço",
-      "A cadeia de valor de serviço",
-      "O sistema de valor de serviço"
+      "A) Os sete princípios orientadores",
+      "B) As quatro dimensões do gerenciamento de serviço",
+      "C) A cadeia de valor de serviço",
+      "D) O sistema de valor de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O propósito [?] é garantir que a organização cocrie valor continuamente com todas as partes interessadas, de acordo com os objetivos da organização.",
     "opcoes": [
-      "do princípio orientador “foco no valor”",
-      "das quatro dimensões do gerenciamento de serviço",
-      "do sistema de valor de serviço",
-      "da prática de gerenciamento de requisição de serviço"
+      "A) do princípio orientador “foco no valor”",
+      "B) das quatro dimensões do gerenciamento de serviço",
+      "C) do sistema de valor de serviço",
+      "D) da prática de gerenciamento de requisição de serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que descreve como os componentes e atividades funcionam juntos para facilitar a criação de valor?",
     "opcoes": [
-      "O sistema de valor de serviço ITIL",
-      "Os princípios orientadores do ITIL",
-      "As quatro dimensões da gestão de serviços",
-      "Uma relação de serviço"
+      "A) O sistema de valor de serviço ITIL",
+      "B) Os princípios orientadores do ITIL",
+      "C) As quatro dimensões da gestão de serviços",
+      "D) Uma relação de serviço"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que inclui a governança como componente?",
     "opcoes": [
-      "Práticas",
-      "A cadeia de valor do serviço",
-      "O sistema de valor do serviço",
-      "Os princípios orientadores"
+      "A) Práticas",
+      "B) A cadeia de valor do serviço",
+      "C) O sistema de valor do serviço",
+      "D) Os princípios orientadores"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que inclui governança, práticas de gestão e melhoria contínua?",
     "opcoes": [
-      "O sistema de valor do serviço",
-      "A atividade da cadeia de valor entregar e apoiar",
-      "O princípio orientador do foco no valor",
-      "A dimensão fluxo de valor e processos"
+      "A) O sistema de valor do serviço",
+      "B) A atividade da cadeia de valor entregar e apoiar",
+      "C) O princípio orientador do foco no valor",
+      "D) A dimensão fluxo de valor e processos"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Quais são os elementos do sistema de valor do serviço?",
     "opcoes": [
-      "Prestação de serviços, consumo de serviços, gestão de relacionamento de serviços",
-      "Governança, cadeia de valor de serviços, práticas",
-      "Valor, utilidade, garantia",
-      "Valor do cliente, valor das partes interessadas, organização"
+      "A) Prestação de serviços, consumo de serviços, gestão de relacionamento de serviços",
+      "B) Governança, cadeia de valor de serviços, práticas",
+      "C) Valor, utilidade, garantia",
+      "D) Valor do cliente, valor das partes interessadas, organização"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que o sistema de valor de serviço ITIL desencoraja?",
     "opcoes": [
-      "Autoridades e responsabilidades coordenadas",
-      "Silos organizacionais",
-      "Interfaces entre práticas",
-      "Agilidade organizacional"
+      "A) Autoridades e responsabilidades coordenadas",
+      "B) Silos organizacionais",
+      "C) Interfaces entre práticas",
+      "D) Agilidade organizacional"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que NÃO é um componente do sistema de valores de serviço?",
     "opcoes": [
-      "A cadeia de valor do serviço",
-      "Oportunidade e demanda",
-      "Melhoria contínua",
-      "Governança"
+      "A) A cadeia de valor do serviço",
+      "B) Oportunidade e demanda",
+      "C) Melhoria contínua",
+      "D) Governança"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual das opções a seguir inclui a configuração de componentes e atividades para facilitar os resultados para as partes interessadas?",
     "opcoes": [
-      "Gestão de relacionamento de serviço",
-      "Consumo de serviço",
-      "O sistema de valor do serviço",
-      "A prática de «gerenciamento de liberações"
+      "A) Gestão de relacionamento de serviço",
+      "B) Consumo de serviço",
+      "C) O sistema de valor do serviço",
+      "D) A prática de «gerenciamento de liberações"
     ],
     "resposta_correta": "C"
   }

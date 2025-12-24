@@ -2,410 +2,410 @@
   {
     "pergunta": "Qual atividade faz parte da prática de 'melhoria contínua'?",
     "opcoes": [
-      "Lidar com elogios e reclamações de usuários para identificar melhorias",
-      "Melhorar as relações com e entre as partes interessadas",
-      "Priorizar e criando casos de negócios para iniciativas de melhoria",
-      "Identificação da causa de interrupções não planejadas no serviço"
+      "A) Lidar com elogios e reclamações de usuários para identificar melhorias",
+      "B) Melhorar as relações com e entre as partes interessadas",
+      "C) Priorizar e criando casos de negócios para iniciativas de melhoria",
+      "D) Identificação da causa de interrupções não planejadas no serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual prática inclui o gerenciamento de soluções alternativas e erros conhecidos?",
     "opcoes": [
-      "Monitoramento e gerenciamento de eventos",
-      "Gerenciamento de configuração de serviço",
-      "Gerenciamento de problemas",
-      "Gerenciamento de incidentes"
+      "A) Monitoramento e gerenciamento de eventos",
+      "B) Gerenciamento de configuração de serviço",
+      "C) Gerenciamento de problemas",
+      "D) Gerenciamento de incidentes"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual afirmação sobre a prática de 'gerenciamento de requisição de serviço' está CORRETA?",
     "opcoes": [
-      "As requisições de serviço são atendidas usando fluxos de trabalho simples",
-      "Um novo fluxo de trabalho é criado para cada tipo de requisição",
-      "Às vezes, é necessária aprovação adicional para a restauração do serviço",
-      "Às vezes, é necessária autorização financeira para requisições de serviço"
+      "A) As requisições de serviço são atendidas usando fluxos de trabalho simples",
+      "B) Um novo fluxo de trabalho é criado para cada tipo de requisição",
+      "C) Às vezes, é necessária aprovação adicional para a restauração do serviço",
+      "D) Às vezes, é necessária autorização financeira para requisições de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é uma atividade de 'identificação de problemas'?",
     "opcoes": [
-      "Analisando informações de desenvolvedores de software",
-      "Estabelecendo soluções alternativas para problemas",
-      "Analisando a causa dos problemas",
-      "Estabelecer potenciais soluções permanentes"
+      "A) Analisando informações de desenvolvedores de software",
+      "B) Estabelecendo soluções alternativas para problemas",
+      "C) Analisando a causa dos problemas",
+      "D) Estabelecer potenciais soluções permanentes"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é uma alteração de baixo risco que foi pré-aprovada para que nenhuma autorização adicional seja necessária?",
     "opcoes": [
-      "Uma mudança padrão",
-      "Um modelo de mudança",
-      "Uma mudança de emergência",
-      "Uma mudança normal"
+      "A) Uma mudança padrão",
+      "B) Um modelo de mudança",
+      "C) Uma mudança de emergência",
+      "D) Uma mudança normal"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual prática tem um propósito que inclui o tratamento de demandas de serviço predefinidas e iniciadas pelo usuário?",
     "opcoes": [
-      "Gerenciamento de requisições de serviço",
-      "Gerenciamento de configuração de serviço",
-      "Gerenciamento de implantação",
-      "Habilitação de mudança"
+      "A) Gerenciamento de requisições de serviço",
+      "B) Gerenciamento de configuração de serviço",
+      "C) Gerenciamento de implantação",
+      "D) Habilitação de mudança"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual prática precisa de pessoas que entendam sistemas complexos e tenham habilidades criativas e analíticas?",
     "opcoes": [
-      "Habilitação de mudanças",
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de requisições de serviço",
-      "Gerenciamento de problemas"
+      "A) Habilitação de mudanças",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de requisições de serviço",
+      "D) Gerenciamento de problemas"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "O que geralmente requer uma equipe de representantes de muitos grupos de partes interessadas?",
     "opcoes": [
-      "Atendendo a uma solicitação de serviço",
-      "Autorizando uma mudança emergencial",
-      "Registrando um novo problema",
-      "Investigando um incidente grave"
+      "A) Atendendo a uma solicitação de serviço",
+      "B) Autorizando uma mudança emergencial",
+      "C) Registrando um novo problema",
+      "D) Investigando um incidente grave"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é o propósito da prática de 'gestão da segurança da informação'?",
     "opcoes": [
-      "Para proteger as informações necessárias à organização para conduzir seus negócios",
-      "Para observar serviços e componentes de serviço",
-      "Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis quando e onde forem necessárias",
-      "Planejar e gerenciar o ciclo de vida completo de todos os ativos de TI"
+      "A) Para proteger as informações necessárias à organização para conduzir seus negócios",
+      "B) Para observar serviços e componentes de serviço",
+      "C) Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis quando e onde forem necessárias",
+      "D) Planejar e gerenciar o ciclo de vida completo de todos os ativos de TI"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "A prática de 'gestão de incidentes' [?] para registrar e gerenciar incidentes.",
     "opcoes": [
-      "deve ter uma equipe dedicada",
-      "requer um processo formal",
-      "precisa de procedimentos detalhados",
-      "é uma atividade da cadeia de valor"
+      "A) deve ter uma equipe dedicada",
+      "B) requer um processo formal",
+      "C) precisa de procedimentos detalhados",
+      "D) é uma atividade da cadeia de valor"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a definição de um erro conhecido?",
     "opcoes": [
-      "Uma interrupção não planejada de um serviço ou redução na qualidade de um serviço",
-      "Uma causa, ou causa potencial, de um ou mais incidentes",
-      "Um problema que foi analisado e não foi resolvido",
-      "Qualquer mudança de estado que tenha significado para o gerenciamento de um serviço ou outro item de configuração (CI)"
+      "A) Uma interrupção não planejada de um serviço ou redução na qualidade de um serviço",
+      "B) Uma causa, ou causa potencial, de um ou mais incidentes",
+      "C) Um problema que foi analisado e não foi resolvido",
+      "D) Qualquer mudança de estado que tenha significado para o gerenciamento de um serviço ou outro item de configuração (CI)"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que está incluído no propósito da prática de 'gerenciamento de nível de serviço'?",
     "opcoes": [
-      "Para maximizar o número de mudanças bem-sucedidas em serviços e produtos",
-      "Para garantir que informações precisas sobre a configuração dos serviços estejam disponíveis",
-      "Para definir metas claras baseadas nos negócios para os níveis de serviço",
-      "Para garantir que os fornecedores e seu desempenho sejam gerenciados de forma adequada"
+      "A) Para maximizar o número de mudanças bem-sucedidas em serviços e produtos",
+      "B) Para garantir que informações precisas sobre a configuração dos serviços estejam disponíveis",
+      "C) Para definir metas claras baseadas nos negócios para os níveis de serviço",
+      "D) Para garantir que os fornecedores e seu desempenho sejam gerenciados de forma adequada"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual afirmação sobre mudanças padrão está CORRETA?",
     "opcoes": [
-      "Uma avaliação completa deve ser concluída cada vez que a mudança for implementada",
-      "A mudança pode ser implementada com menos testes, se necessário",
-      "A autoridade de mudança apropriada deve ser atribuída a cada tipo de mudança",
-      "A alteração não requer autorização adicional"
+      "A) Uma avaliação completa deve ser concluída cada vez que a mudança for implementada",
+      "B) A mudança pode ser implementada com menos testes, se necessário",
+      "C) A autoridade de mudança apropriada deve ser atribuída a cada tipo de mudança",
+      "D) A alteração não requer autorização adicional"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual prática tem um propósito que inclui o gerenciamento de riscos relacionados à confidencialidade, integridade e disponibilidade?",
     "opcoes": [
-      "Habilitação de mudança",
-      "Gerenciamento de problemas",
-      "Gerenciamento da segurança da informação",
-      "Gerenciamento de configuração de serviço"
+      "A) Habilitação de mudança",
+      "B) Gerenciamento de problemas",
+      "C) Gerenciamento da segurança da informação",
+      "D) Gerenciamento de configuração de serviço"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual habilidade é exigida pela prática de 'gerenciamento de nível de serviço'?",
     "opcoes": [
-      "Gerenciamento de fornecedores",
-      "Conhecimento técnico",
-      "Monitoramento de eventos",
-      "Gerenciamento de problemas"
+      "A) Gerenciamento de fornecedores",
+      "B) Conhecimento técnico",
+      "C) Monitoramento de eventos",
+      "D) Gerenciamento de problemas"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é a causa, ou causa potencial, de um ou mais incidentes?",
     "opcoes": [
-      "Um problema",
-      "Um item de configuração",
-      "Uma solução alternativa",
-      "Um incidente"
+      "A) Um problema",
+      "B) Um item de configuração",
+      "C) Uma solução alternativa",
+      "D) Um incidente"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é o propósito da prática de 'monitoração e gerenciamento de evento'?",
     "opcoes": [
-      "Para restaurar a operação normal do serviço o mais rápido possível",
-      "Para gerenciar soluções alternativas e erros conhecidos",
-      "Para capturar a demanda por resolução de incidentes e solicitações de serviço",
-      "Observar sistematicamente serviços e componentes de serviço"
+      "A) Para restaurar a operação normal do serviço o mais rápido possível",
+      "B) Para gerenciar soluções alternativas e erros conhecidos",
+      "C) Para capturar a demanda por resolução de incidentes e solicitações de serviço",
+      "D) Observar sistematicamente serviços e componentes de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual afirmação sobre o 'modelo de melhoria contínua' está CORRETA?",
     "opcoes": [
-      "As organizações devem seguir as etapas do modelo na sequência em que são apresentadas",
-      "O fluxo do modelo ajuda as organizações a vincular as melhorias aos seus objetivos",
-      "O modelo é aplicável apenas a certas partes do sistema de valores de serviço",
-      "As organizações devem usar um modelo ou método adicional para vincular as melhorias ao valor do cliente"
+      "A) As organizações devem seguir as etapas do modelo na sequência em que são apresentadas",
+      "B) O fluxo do modelo ajuda as organizações a vincular as melhorias aos seus objetivos",
+      "C) O modelo é aplicável apenas a certas partes do sistema de valores de serviço",
+      "D) As organizações devem usar um modelo ou método adicional para vincular as melhorias ao valor do cliente"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a razão MAIS importante para priorizar incidentes?",
     "opcoes": [
-      "Para garantir que as expectativas do usuário sejam realistas",
-      "Para garantir que os incidentes de maior impacto sejam resolvidos primeiro",
-      "Para ajudar no compartilhamento de informações e na aprendizagem",
-      "Para fornecer links para alterações relacionadas e erros conhecidos"
+      "A) Para garantir que as expectativas do usuário sejam realistas",
+      "B) Para garantir que os incidentes de maior impacto sejam resolvidos primeiro",
+      "C) Para ajudar no compartilhamento de informações e na aprendizagem",
+      "D) Para fornecer links para alterações relacionadas e erros conhecidos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual prática utiliza tecnologias como sistemas de telefonia inteligentes, uma base de conhecimento e ferramentas de monitoramento?",
     "opcoes": [
-      "Gerenciamento de configuração de serviço",
-      "Central de Serviços",
-      "Gerenciamento de problemas",
-      "Gerenciamento de implantação"
+      "A) Gerenciamento de configuração de serviço",
+      "B) Central de Serviços",
+      "C) Gerenciamento de problemas",
+      "D) Gerenciamento de implantação"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o propósito da prática de 'gerenciamento de implantação'?",
     "opcoes": [
-      "Para disponibilizar serviços e recursos novos e alterados para uso",
-      "Para mover componentes novos ou alterados para ambientes ativos",
-      "Planejar e gerenciar o ciclo de vida completo de todos os ativos de TI",
-      "Para proteger as informações necessárias à organização para conduzir seus negócios"
+      "A) Para disponibilizar serviços e recursos novos e alterados para uso",
+      "B) Para mover componentes novos ou alterados para ambientes ativos",
+      "C) Planejar e gerenciar o ciclo de vida completo de todos os ativos de TI",
+      "D) Para proteger as informações necessárias à organização para conduzir seus negócios"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual atividade de 'gerenciamento de nível de serviço' ajuda a equipe a prestar um serviço mais focado nos negócios?",
     "opcoes": [
-      "Criação de metas com base na porcentagem de tempo de atividade de um serviço",
-      "Compreender as necessidades contínuas dos clientes",
-      "Uso de terminologia técnica complexa em acordos de nível de serviço (ANSS)",
-      "Medição de atividades operacionais de baixo nível"
+      "A) Criação de metas com base na porcentagem de tempo de atividade de um serviço",
+      "B) Compreender as necessidades contínuas dos clientes",
+      "C) Uso de terminologia técnica complexa em acordos de nível de serviço (ANSS)",
+      "D) Medição de atividades operacionais de baixo nível"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "O que NÃO será tratado como uma requisição de serviço?",
     "opcoes": [
-      "A degradação de um serviço",
-      "A substituição de um cartucho de toner",
-      "Fornecimento de um computador portátil",
-      "Uma reclamação sobre uma equipe de suporte"
+      "A) A degradação de um serviço",
+      "B) A substituição de um cartucho de toner",
+      "C) Fornecimento de um computador portátil",
+      "D) Uma reclamação sobre uma equipe de suporte"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Que tipo de mudança é frequentemente usada para resolver incidentes ou implementar patches de segurança?",
     "opcoes": [
-      "Mudança padrão",
-      "Mudança normal",
-      "Mudança de emergência",
-      "Alterar modelo"
+      "A) Mudança padrão",
+      "B) Mudança normal",
+      "C) Mudança de emergência",
+      "D) Alterar modelo"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual fase do gerenciamento de problemas inclui a análise de incidentes para procurar padrões e tendências?",
     "opcoes": [
-      "Identificação do problema",
-      "Controle de problemas",
-      "Controle de erros",
-      "Revisão pós-implementação"
+      "A) Identificação do problema",
+      "B) Controle de problemas",
+      "C) Controle de erros",
+      "D) Revisão pós-implementação"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual prática realiza revisões para garantir que os serviços continuem a atender às necessidades dos clientes?",
     "opcoes": [
-      "Monitoramento e gerenciamento de eventos",
-      "Gerenciamento de nível de serviço",
-      "Habilitação de mudança",
-      "Central de serviços"
+      "A) Monitoramento e gerenciamento de eventos",
+      "B) Gerenciamento de nível de serviço",
+      "C) Habilitação de mudança",
+      "D) Central de serviços"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o MELHOR tipo de recurso para investigar incidentes complexos?",
     "opcoes": [
-      "Sistemas de autoajuda",
-      "Equipe de suporte experiente",
-      "Instruções de trabalho detalhadas",
-      "Planos de recuperação de desastres"
+      "A) Sistemas de autoajuda",
+      "B) Equipe de suporte experiente",
+      "C) Instruções de trabalho detalhadas",
+      "D) Planos de recuperação de desastres"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual prática tem um propósito que inclui o gerenciamento de componentes financeiramente valiosos que podem contribuir para a entrega de um serviço de TI?",
     "opcoes": [
-      "Gerenciamento de implantação",
-      "Melhoria contínua",
-      "Monitoramento e gerenciamento de eventos",
-      "Gerenciamento de ativos de TI"
+      "A) Gerenciamento de implantação",
+      "B) Melhoria contínua",
+      "C) Monitoramento e gerenciamento de eventos",
+      "D) Gerenciamento de ativos de TI"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual prática está MAIS associada ao uso da empatia para compreender os usuários?",
     "opcoes": [
-      "Central de Serviço",
-      "Melhoria contínua",
-      "Gerenciamento de nível de serviço",
-      "Habilitação de mudança"
+      "A) Central de Serviço",
+      "B) Melhoria contínua",
+      "C) Gerenciamento de nível de serviço",
+      "D) Habilitação de mudança"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é o PRINCIPAL benefício do 'gerenciamento de problemas'?",
     "opcoes": [
-      "Restaurando o serviço normal o mais rápido possível",
-      "Redução do número e do impacto dos incidentes",
-      "Maximizando o número de mudanças bem-sucedidas",
-      "Gerenciando soluções alternativas e erros conhecidos"
+      "A) Restaurando o serviço normal o mais rápido possível",
+      "B) Redução do número e do impacto dos incidentes",
+      "C) Maximizando o número de mudanças bem-sucedidas",
+      "D) Gerenciando soluções alternativas e erros conhecidos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual fase do gerenciamento de problemas inclui a reavaliação regular da eficácia das soluções alternativas?",
     "opcoes": [
-      "Identificação do problema",
-      "Controle de problemas",
-      "Controle de erros",
-      "Análise do problema"
+      "A) Identificação do problema",
+      "B) Controle de problemas",
+      "C) Controle de erros",
+      "D) Análise do problema"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Um serviço ficará indisponível pelas próximas duas horas devido a manutenção não planejada. Qual prática é MAIS PROVÁVEL de estar envolvida no gerenciamento disso?",
     "opcoes": [
-      "Gerenciamento de incidentes",
-      "Gerenciamento de problemas",
-      "Habilitação de mudança",
-      "Gerenciamento de requisições de serviço"
+      "A) Gerenciamento de incidentes",
+      "B) Gerenciamento de problemas",
+      "C) Habilitação de mudança",
+      "D) Gerenciamento de requisições de serviço"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual prática tem um propósito que inclui o alinhamento das práticas e serviços da organização com as mudanças nas necessidades de negócios?",
     "opcoes": [
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de configuração de serviço",
-      "Melhoria contínua",
-      "Gerenciamento do relacionamento"
+      "A) Gerenciamento de nível de serviço",
+      "B) Gerenciamento de configuração de serviço",
+      "C) Melhoria contínua",
+      "D) Gerenciamento do relacionamento"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que está incluído no propósito da prática de 'gerenciamento de relacionamento'?",
     "opcoes": [
-      "Identificação, análise, monitoramento e melhoria contínua do relacionamento com as partes interessadas",
-      "Definir metas claras baseadas no negócio para que a prestação de um serviço possa ser avaliada adequadamente",
-      "Criar relacionamentos colaborativos com os principais fornecedores para descobrir e obter novo valor",
-      "Lidar com todas as solicitações de serviço predefinidas e iniciadas pelo usuário de maneira eficaz e fácil de usar"
+      "A) Identificação, análise, monitoramento e melhoria contínua do relacionamento com as partes interessadas",
+      "B) Definir metas claras baseadas no negócio para que a prestação de um serviço possa ser avaliada adequadamente",
+      "C) Criar relacionamentos colaborativos com os principais fornecedores para descobrir e obter novo valor",
+      "D) Lidar com todas as solicitações de serviço predefinidas e iniciadas pelo usuário de maneira eficaz e fácil de usar"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que auxilia diretamente no diagnóstico e resolução de incidentes simples?",
     "opcoes": [
-      "Roteiros para coletar informações do usuário",
-      "Utilização de padrões de trabalho por turnos",
-      "Atendimento de solicitações de serviço",
-      "Criação de uma equipe temporária"
+      "A) Roteiros para coletar informações do usuário",
+      "B) Utilização de padrões de trabalho por turnos",
+      "C) Atendimento de solicitações de serviço",
+      "D) Criação de uma equipe temporária"
     ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual prática garante que as ações de serviço, que são uma parte normal da prestação de serviços, sejam tratadas de forma eficaz?",
     "opcoes": [
-      "Gerenciamento de incidentes",
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de problemas",
-      "Gerenciamento de solicitações de serviço"
+      "A) Gerenciamento de incidentes",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de problemas",
+      "D) Gerenciamento de solicitações de serviço"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual prática facilita a comunicação operacional entre a organização prestadora de serviços e os usuários da organização consumidora de serviços?",
     "opcoes": [
-      "Gerenciamento de nível de serviço",
-      "Gestão de relacionamento",
-      "Central de Serviços",
-      "Monitoramento e gerenciamento de eventos"
+      "A) Gerenciamento de nível de serviço",
+      "B) Gestão de relacionamento",
+      "C) Central de Serviços",
+      "D) Monitoramento e gerenciamento de eventos"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O objetivo da prática de gerenciamento de configuração de serviço é garantir que informações precisas e confiáveis sobre a configuração dos serviços e os [?] que os suportam estejam disponíveis quando e onde forem necessárias.",
     "opcoes": [
-      "fornecedores",
-      "ICs",
-      "clientes",
-      "ativos"
+      "A) fornecedores",
+      "B) ICs",
+      "C) clientes",
+      "D) ativos"
     ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual das alternativas a seguir está incluída no propósito da prática de 'melhoria contínua'?",
     "opcoes": [
-      "A restauração da operação normal do serviço o mais rápido possível",
-      "O estabelecimento de vínculos entre a organização e seus stakeholders nos níveis estratégico e tático",
-      "O alinhamento das práticas e serviços da organização com as mudanças nas necessidades de negócios",
-      "A redução da probabilidade e do impacto dos incidentes"
+      "A) A restauração da operação normal do serviço o mais rápido possível",
+      "B) O estabelecimento de vínculos entre a organização e seus stakeholders nos níveis estratégico e tático",
+      "C) O alinhamento das práticas e serviços da organização com as mudanças nas necessidades de negócios",
+      "D) A redução da probabilidade e do impacto dos incidentes"
     ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Que prática forma um elo entre o prestador de serviços e os usuários dos serviços?",
     "opcoes": [
-      "Habilitação de mudanças",
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de problemas",
-      "Central de serviços"
+      "A) Habilitação de mudanças",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de problemas",
+      "D) Central de serviços"
     ],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Que tipo de mudança é MAIS PROVÁVEL de ser iniciada como parte da prática de 'gerenciamento de requisições de serviço'?",
     "opcoes": [
-      "Uma mudança normal",
-      "Uma mudança de emergência",
-      "Uma mudança padrão",
-      "Um modelo de mudança"
+      "A) Uma mudança normal",
+      "B) Uma mudança de emergência",
+      "C) Uma mudança padrão",
+      "D) Um modelo de mudança"
     ],
     "resposta_correta": "C"
   }

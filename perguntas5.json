@@ -2,401 +2,401 @@
   {
     "pergunta": "Qual é o propósito da prática de “gerenciamento de nível de serviço”?",
     "opcoes": [
-      "Estabelecer e nutrir os vínculos entre a organização e suas partes interessadas",
-      "Para garantir que os fornecedores da organização e seu desempenho sejam gerenciados de forma adequada",
-      "Para apoiar a qualidade acordada de um serviço, lidando com todas as solicitações de serviço acordadas e iniciadas pelo usuário",
-      "Para definir metas claras baseadas nos negócios para os níveis de serviço"
+      "A) Estabelecer e nutrir os vínculos entre a organização e suas partes interessadas",
+      "B) Para garantir que os fornecedores da organização e seu desempenho sejam gerenciados de forma adequada",
+      "C) Para apoiar a qualidade acordada de um serviço, lidando com todas as solicitações de serviço acordadas e iniciadas pelo usuário",
+      "D) Para definir metas claras baseadas nos negócios para os níveis de serviço"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual termo se refere aos níveis de serviço alinhados com as necessidades dos consumidores de serviços?",
     "opcoes": [
-      "Gestão de serviços",
-      "Garantia",
-      "Custo",
-      "Utilidade"
+      "A) Gestão de serviços",
+      "B) Garantia",
+      "C) Custo",
+      "D) Utilidade"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual princípio orientador considera a experiência do cliente e do usuário?",
     "opcoes": [
-      "Colaborar e promover visibilidade",
-      "Foco no valor",
-      "Começar onde você está",
-      "Manter de forma simples e prática"
+      "A) Colaborar e promover visibilidade",
+      "B) Foco no valor",
+      "C) Começar onde você está",
+      "D) Manter de forma simples e prática"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é uma atividade-chave realizada na questão 'como chegar lá?' passo do modelo de “melhoria contínua”?",
     "opcoes": [
-      "Definir metas mensuráveis",
-      "Realizar avaliações iniciais",
-      "Executar ações de melhoria",
-      "Criar um plano para enfrentar os desafios"
+      "A) Definir metas mensuráveis",
+      "B) Realizar avaliações iniciais",
+      "C) Executar ações de melhoria",
+      "D) Criar um plano para enfrentar os desafios"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "O que descreve as etapas necessárias para criar e entregar um serviço específico a um consumidor?",
     "opcoes": [
-      "Gestão de serviços",
-      "Práticas",
-      "Um fluxo de valor",
-      "Gerenciamento de nível de serviço"
+      "A) Gestão de serviços",
+      "B) Práticas",
+      "C) Um fluxo de valor",
+      "D) Gerenciamento de nível de serviço"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual prática recomenda o uso de ferramentas de colaboração e correspondência automatizada de sintomas?",
     "opcoes": [
-      "Gerenciamento de problemas",
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de incidentes",
-      "Gerenciamento de solicitações de serviço"
+      "A) Gerenciamento de problemas",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de incidentes",
+      "D) Gerenciamento de solicitações de serviço"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Que prática inclui a realização de revisões regulares para garantir que os serviços ainda são apropriados e relevantes?",
     "opcoes": [
-      "Gerenciamento de nível de serviço",
-      "Central de Serviços",
-      "Melhoria contínua",
-      "Habilitação de mudança"
+      "A) Gerenciamento de nível de serviço",
+      "B) Central de Serviços",
+      "C) Melhoria contínua",
+      "D) Habilitação de mudança"
     ],
-    "resposta_correta": 0
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Quais são os DOIS aspectos importantes da prática de 'gerenciamento de requisições de serviço'? 1. Padronização e automação 2. Fornecer uma variedade de canais de acesso 3. Estabelecer uma visão partilhada das metas 4. Políticas para aprovações",
     "opcoes": [
-      "1 e 2",
-      "2 e 3",
-      "3 e 4",
-      "1 e 4"
+      "A) 1 e 2",
+      "B) 2 e 3",
+      "C) 3 e 4",
+      "D) 1 e 4"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Que prática forma um elo entre o prestador de serviços e os usuários dos serviços?",
     "opcoes": [
-      "Habilitação de mudança",
-      "Gerenciamento de nível de serviço",
-      "Gerenciamento de problemas",
-      "Central de Serviços"
+      "A) Habilitação de mudança",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de problemas",
+      "D) Central de Serviços"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual afirmação sobre a prática de 'melhoria contínua' está CORRETA?",
     "opcoes": [
-      "A participação na melhoria contínua deve ser limitada a uma pequena equipe dedicada",
-      "Tem lugar em todas as áreas da organização e em todos os níveis",
-      "Treinamento deve ser fornecido aos envolvidos na melhoria contínua",
-      "Um único registro de melhoria contínua deve ser mantido pela alta administração"
+      "A) A participação na melhoria contínua deve ser limitada a uma pequena equipe dedicada",
+      "B) Tem lugar em todas as áreas da organização e em todos os níveis",
+      "C) Treinamento deve ser fornecido aos envolvidos na melhoria contínua",
+      "D) Um único registro de melhoria contínua deve ser mantido pela alta administração"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o principal requisito para um acordo de nível de serviço (ANS) bem-sucedido?",
     "opcoes": [
-      "Usando métricas individuais relacionadas ao catálogo de serviços",
-      "Usando métricas agrupadas para relacionar desempenho com resultados",
-      "Usando métricas baseadas em sistema único relacionadas aos resultados",
-      "Usando um acordo entre o prestador de serviços e o fornecedor de serviços"
+      "A) Usando métricas individuais relacionadas ao catálogo de serviços",
+      "B) Usando métricas agrupadas para relacionar desempenho com resultados",
+      "C) Usando métricas baseadas em sistema único relacionadas aos resultados",
+      "D) Usando um acordo entre o prestador de serviços e o fornecedor de serviços"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que é definido como uma mudança de estado significativa para o gerenciamento de um serviço de TI?",
     "opcoes": [
-      "Evento",
-      "Incidente",
-      "Problema",
-      "Erro conhecido"
+      "A) Evento",
+      "B) Incidente",
+      "C) Problema",
+      "D) Erro conhecido"
     ],
-    "resposta_correta": 0
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Em que se concentra PRINCIPALMENTE a 'habilitação de mudança'?",
     "opcoes": [
-      "Mudanças nos níveis de serviço",
-      "Mudanças em produtos e serviços",
-      "Mudanças na estrutura organizacional",
-      "Mudanças nas habilidades e competências"
+      "A) Mudanças nos níveis de serviço",
+      "B) Mudanças em produtos e serviços",
+      "C) Mudanças na estrutura organizacional",
+      "D) Mudanças nas habilidades e competências"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o uso PRIMÁRIO de um calendário de mudanças?",
     "opcoes": [
-      "Para apoiar a prática de 'gestão de incidentes' e planejamento de melhorias",
-      "Para gerenciar mudanças de emergência",
-      "Planejar mudanças e ajudar a evitar conflitos",
-      "Para gerenciar alterações padrão"
+      "A) Para apoiar a prática de 'gestão de incidentes' e planejamento de melhorias",
+      "B) Para gerenciar mudanças de emergência",
+      "C) Planejar mudanças e ajudar a evitar conflitos",
+      "D) Para gerenciar alterações padrão"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "O que está incluído no propósito da atividade da cadeia de valor “entrega e suporte”?",
     "opcoes": [
-      "Atendendo às expectativas das partes interessadas quanto ao tempo de lançamento no mercado",
-      "Compreender a visão de serviço da organização",
-      "Compreender as necessidades das partes interessadas",
-      "Prestação de serviços de acordo com especificações acordadas"
+      "A) Atendendo às expectativas das partes interessadas quanto ao tempo de lançamento no mercado",
+      "B) Compreender a visão de serviço da organização",
+      "C) Compreender as necessidades das partes interessadas",
+      "D) Prestação de serviços de acordo com especificações acordadas"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "O que são os princípios orientadores?",
     "opcoes": [
-      "Um conjunto de atividades interconectadas que ajudam uma organização a fornecer um serviço valioso",
-      "Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
-      "Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
-      "Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
+      "A) Um conjunto de atividades interconectadas que ajudam uma organização a fornecer um serviço valioso",
+      "B) Uma descrição de um ou mais serviços que ajudam a atender às necessidades de um grupo-alvo de consumidores",
+      "C) Um conjunto de capacidades organizacionais especializadas para agregar valor aos clientes",
+      "D) Recomendações que ajudam uma organização na adoção de uma abordagem de gestão de serviços"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Quais são os elementos do sistema de valor do serviço?",
     "opcoes": [
-      "Prestação de serviços, consumo de serviços, gestão de relacionamento de serviços",
-      "Governança, cadeia de valor de serviços, práticas",
-      "Valor, utilidade, garantia",
-      "Valor do cliente, valor das partes interessadas, organização"
+      "A) Prestação de serviços, consumo de serviços, gestão de relacionamento de serviços",
+      "B) Governança, cadeia de valor de serviços, práticas",
+      "C) Valor, utilidade, garantia",
+      "D) Valor do cliente, valor das partes interessadas, organização"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual princípio orientador ajuda a garantir que cada esforço de melhoria tenha mais foco e seja mais fácil de manter?",
     "opcoes": [
-      "Comece de onde você está",
-      "Colaborar e promover visibilidade",
-      "Progredir iterativamente com feedback",
-      "Pense e trabalhar holisticamente"
+      "A) Comece de onde você está",
+      "B) Colaborar e promover visibilidade",
+      "C) Progredir iterativamente com feedback",
+      "D) Pense e trabalhar holisticamente"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual dimensão considera a segurança e a privacidade dos dados?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que auxilia diretamente no diagnóstico e resolução de incidentes simples?",
     "opcoes": [
-      "Roteiros para coletar informações do usuário",
-      "Utilização de padrões de trabalho por turnos",
-      "Atendimento de solicitações de serviço",
-      "Criação de uma equipe temporária"
+      "A) Roteiros para coletar informações do usuário",
+      "B) Utilização de padrões de trabalho por turnos",
+      "C) Atendimento de solicitações de serviço",
+      "D) Criação de uma equipe temporária"
     ],
-    "resposta_correta": 0
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Um ANS é um acordo de nível de serviço. O que descreve o efeito 'ANS melancia'?",
     "opcoes": [
-      "Um único ANS define níveis de serviço alvo para vários clientes, para que cada cliente veja relatórios sobre as experiências de outros clientes",
-      "As métricas de um ANS são focadas em medidas internas, para que os relatórios mostrem que tudo está bem, enquanto o cliente não fica satisfeito",
-      "As metas do ANS mudam com muita frequência, de modo que cada relatório inclui novas medidas e as tendências não podem ser analisadas",
-      "A introdução de ANSs para um serviço permite que os clientes vejam que o prestador de serviços está fazendo um trabalho realmente bom, o que melhora a satisfação"
+      "A) Um único ANS define níveis de serviço alvo para vários clientes, para que cada cliente veja relatórios sobre as experiências de outros clientes",
+      "B) As métricas de um ANS são focadas em medidas internas, para que os relatórios mostrem que tudo está bem, enquanto o cliente não fica satisfeito",
+      "C) As metas do ANS mudam com muita frequência, de modo que cada relatório inclui novas medidas e as tendências não podem ser analisadas",
+      "D) A introdução de ANSs para um serviço permite que os clientes vejam que o prestador de serviços está fazendo um trabalho realmente bom, o que melhora a satisfação"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que o sistema de valor de serviço ITIL desencoraja?",
     "opcoes": [
-      "Autoridades e responsabilidades coordenadas",
-      "Silos organizacionais",
-      "Interfaces entre práticas",
-      "Agilidade organizacional"
+      "A) Autoridades e responsabilidades coordenadas",
+      "B) Silos organizacionais",
+      "C) Interfaces entre práticas",
+      "D) Agilidade organizacional"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o propósito do gerenciamento de liberação?",
     "opcoes": [
-      "Para proteger as informações da organização",
-      "Para lidar com solicitações de serviço iniciadas pelo usuário",
-      "Para disponibilizar serviços novos e alterados para uso",
-      "Para mover hardware e software para ambientes ativos"
+      "A) Para proteger as informações da organização",
+      "B) Para lidar com solicitações de serviço iniciadas pelo usuário",
+      "C) Para disponibilizar serviços novos e alterados para uso",
+      "D) Para mover hardware e software para ambientes ativos"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é uma atividade-chave realizada na questão 'nós chegamos lá?' passo do modelo de “melhoria contínua”?",
     "opcoes": [
-      "Definir metas mensuráveis",
-      "Realizar avaliações iniciais",
-      "Executar ações de melhoria",
-      "Avaliar medidas e métricas"
+      "A) Definir metas mensuráveis",
+      "B) Realizar avaliações iniciais",
+      "C) Executar ações de melhoria",
+      "D) Avaliar medidas e métricas"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual dimensão inclui o conhecimento necessário para a gestão dos serviços?",
     "opcoes": [
-      "Organizações e pessoas",
-      "Informação e tecnologia",
-      "Parceiros e fornecedores",
-      "Fluxos e processos de valor"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que é recomendado pelo princípio orientador “progredir iterativamente com feedback”?",
     "opcoes": [
-      "Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
-      "A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
-      "Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
-      "Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
+      "A) Uma avaliação do estado atual realizada no início de uma iniciativa de melhoria",
+      "B) A identificação de todas as partes interessadas no início de uma iniciativa de melhoria",
+      "C) Uma iniciativa de melhoria dividida em várias seções gerenciáveis",
+      "D) Uma avaliação de como todas as partes de uma organização afetarão uma iniciativa de melhoria"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "O que é usado para vincular atividades dentro da cadeia de valor de serviços?",
     "opcoes": [
-      "Acordos de nível de serviço",
-      "Entradas, saídas e gatilhos",
-      "Oportunidade, demanda e valor",
-      "Central de serviços"
+      "A) Acordos de nível de serviço",
+      "B) Entradas, saídas e gatilhos",
+      "C) Oportunidade, demanda e valor",
+      "D) Central de serviços"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que é considerado pela dimensão ‘parceiros e fornecedores’?",
     "opcoes": [
-      "Uso de inteligência artificial",
-      "Definir de controles e procedimentos",
-      "Usar funções e responsabilidades formais",
-      "Trabalhar com um integrador para gerenciar relacionamentos"
+      "A) Uso de inteligência artificial",
+      "B) Definir de controles e procedimentos",
+      "C) Usar funções e responsabilidades formais",
+      "D) Trabalhar com um integrador para gerenciar relacionamentos"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "O que um serviço pode retirar do consumidor e impor ao consumidor?",
     "opcoes": [
-      "Utilidade",
-      "Ativo",
-      "Custo",
-      "Resultado"
+      "A) Utilidade",
+      "B) Ativo",
+      "C) Custo",
+      "D) Resultado"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Quais são as duas práticas que usam soluções de contorno?",
     "opcoes": [
-      "Habilitação para mudanças e melhoria contínua",
-      "Habilitação de mudanças e gerenciamento de problemas",
-      "Gerenciamento de problemas e gerenciamento de incidentes",
-      "Gerenciamento de incidentes e melhoria contínua"
+      "A) Habilitação para mudanças e melhoria contínua",
+      "B) Habilitação de mudanças e gerenciamento de problemas",
+      "C) Gerenciamento de problemas e gerenciamento de incidentes",
+      "D) Gerenciamento de incidentes e melhoria contínua"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "O que é tratado como uma requisição de serviço?",
     "opcoes": [
-      "Uma investigação para identificar a causa de um incidente",
-      "Um elogio sobre uma equipe de suporte de TI",
-      "A falha de um serviço de TI",
-      "Uma mudança emergencial para implementar um patch de segurança"
+      "A) Uma investigação para identificar a causa de um incidente",
+      "B) Um elogio sobre uma equipe de suporte de TI",
+      "C) A falha de um serviço de TI",
+      "D) Uma mudança emergencial para implementar um patch de segurança"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que é um incidente?",
     "opcoes": [
-      "A remoção planejada de um item que pode afetar um serviço",
-      "Um resultado habilitado por uma ou mais saídas",
-      "Um possível evento futuro que poderia causar danos",
-      "Uma interrupção de serviço resolvida pelo uso de ferramentas de autoajuda"
+      "A) A remoção planejada de um item que pode afetar um serviço",
+      "B) Um resultado habilitado por uma ou mais saídas",
+      "C) Um possível evento futuro que poderia causar danos",
+      "D) Uma interrupção de serviço resolvida pelo uso de ferramentas de autoajuda"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual prática ajudaria um usuário a obter acesso a um aplicativo que ele precisa usar?",
     "opcoes": [
-      "Gerenciamento de configuração de serviço",
-      "Habilitação de mudança",
-      "Gerenciamento de requisições de serviço",
-      "Gerenciamento de nível de serviço"
+      "A) Gerenciamento de configuração de serviço",
+      "B) Habilitação de mudança",
+      "C) Gerenciamento de requisições de serviço",
+      "D) Gerenciamento de nível de serviço"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "O que é importante para um “registro de melhoria contínua” (RMC)?",
     "opcoes": [
-      "As ideias de melhoria são documentadas, avaliadas e priorizadas",
-      "Ideias de melhoria de muitas fontes são mantidas em um único CIR",
-      "Ideias de melhoria que não estão sendo implementadas imediatamente são removidas do CIR",
-      "As ideias de melhoria são testadas, financiadas e acordadas"
+      "A) As ideias de melhoria são documentadas, avaliadas e priorizadas",
+      "B) Ideias de melhoria de muitas fontes são mantidas em um único CIR",
+      "C) Ideias de melhoria que não estão sendo implementadas imediatamente são removidas do CIR",
+      "D) As ideias de melhoria são testadas, financiadas e acordadas"
     ],
-    "resposta_correta": 0
+    "resposta_correta": "A"
   },
   {
     "pergunta": "O que é um serviço?",
     "opcoes": [
-      "Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos",
-      "Um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos",
-      "Uma entrega tangível ou intangível de uma atividade",
-      "Atividades conjuntas realizadas por um prestador de serviços e um consumidor de serviços para garantir a cocriação contínua de valor com base em ofertas de serviços acordadas e disponíveis"
+      "A) Um possível evento que pode causar danos ou perdas, ou dificultar o alcance dos objetivos",
+      "B) Um meio de permitir a cocriação de valor, facilitando os resultados que os clientes desejam alcançar, sem que o cliente tenha que gerenciar custos e riscos específicos",
+      "C) Uma entrega tangível ou intangível de uma atividade",
+      "D) Atividades conjuntas realizadas por um prestador de serviços e um consumidor de serviços para garantir a cocriação contínua de valor com base em ofertas de serviços acordadas e disponíveis"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "O que ajuda a gerenciar um incidente quando não está claro qual equipe de suporte deveria trabalhar no incidente?",
     "opcoes": [
-      "Planos de recuperação de desastres",
-      "Enxameação",
-      "Tempos de resolução alvo",
-      "Autoajuda"
+      "A) Planos de recuperação de desastres",
+      "B) Enxameação",
+      "C) Tempos de resolução alvo",
+      "D) Autoajuda"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   },
   {
     "pergunta": "Qual abordagem é CORRETA ao aplicar o princípio orientador “Manter de forma simples e prática”?",
     "opcoes": [
-      "Adicione controles e métricas apenas quando forem necessários",
-      "Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
-      "Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
-      "Adicione apenas controles e métricas necessários para conformidade"
+      "A) Adicione controles e métricas apenas quando forem necessários",
+      "B) Projete controles e métricas primeiro e depois remova aqueles que não agregam valor",
+      "C) Projetar controles e métricas e adicioná-los individualmente até que todos sejam implementados",
+      "D) Adicione apenas controles e métricas necessários para conformidade"
     ],
-    "resposta_correta": 0
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual afirmação sobre a prática de 'habilitação para a mudança' está CORRETA?",
     "opcoes": [
-      "As solicitações de serviço geralmente são alterações normais que podem ser implementadas rapidamente sem autorização",
-      "Mudanças emergenciais são mudanças que devem ser totalmente testadas e documentadas antes da implementação",
-      "Mudanças padrão são mudanças que precisam ser programadas, avaliadas e autorizadas seguindo um processo padrão",
-      "Mudanças emergenciais são mudanças que devem ser implementadas o mais rápido possível e, portanto, a autorização é agilizada"
+      "A) As solicitações de serviço geralmente são alterações normais que podem ser implementadas rapidamente sem autorização",
+      "B) Mudanças emergenciais são mudanças que devem ser totalmente testadas e documentadas antes da implementação",
+      "C) Mudanças padrão são mudanças que precisam ser programadas, avaliadas e autorizadas seguindo um processo padrão",
+      "D) Mudanças emergenciais são mudanças que devem ser implementadas o mais rápido possível e, portanto, a autorização é agilizada"
     ],
-    "resposta_correta": 3
+    "resposta_correta": "D"
   },
   {
     "pergunta": "Qual princípio orientador se concentra na redução de custos e erros humanos?",
     "opcoes": [
-      "Foco no valor",
-      "Colaborar e promover visibilidade",
-      "Otimizar e automatizar",
-      "Pensar e trabalhar holisticamente"
+      "A) Foco no valor",
+      "B) Colaborar e promover visibilidade",
+      "C) Otimizar e automatizar",
+      "D) Pensar e trabalhar holisticamente"
     ],
-    "resposta_correta": 2
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é o propósito da prática de “gerenciamento de problemas”?",
     "opcoes": [
-      "Para proteger as informações necessárias à organização para conduzir seus negócios",
-      "Para reduzir a probabilidade e o impacto dos incidentes, identificando as causas reais e potenciais dos incidentes e gerenciando soluções alternativas e erros conhecidos",
-      "Alinhar as práticas e serviços da organização com as necessidades de negócios em constante mudança através da identificação e melhoria contínua dos serviços",
-      "Minimizar o impacto negativo dos incidentes, restaurando a operação normal do serviço o mais rápido possível"
+      "A) Para proteger as informações necessárias à organização para conduzir seus negócios",
+      "B) Para reduzir a probabilidade e o impacto dos incidentes, identificando as causas reais e potenciais dos incidentes e gerenciando soluções alternativas e erros conhecidos",
+      "C) Alinhar as práticas e serviços da organização com as necessidades de negócios em constante mudança através da identificação e melhoria contínua dos serviços",
+      "D) Minimizar o impacto negativo dos incidentes, restaurando a operação normal do serviço o mais rápido possível"
     ],
-    "resposta_correta": 1
+    "resposta_correta": "B"
   }
 ]
