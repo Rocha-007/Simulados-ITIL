@@ -14,6 +14,7 @@
         <div class="back-to-menu">
             <a href="index.html">&larr; Voltar ao Menu Principal</a>
         </div>
+
         <h1>Práticas de Gestão</h1>
         <p>Escolha um dos blocos de questões abaixo:</p>
         
@@ -24,10 +25,18 @@
     </div>
 
     <script>
+        // Voltar ao menu principal ao pressionar ESC
+        document.addEventListener('keydown', function (event) {
+            if (event.key === 'Escape') {
+                window.location.href = 'index.html';
+            }
+        });
+
+        // Service Worker
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
                 navigator.serviceWorker.register('/simulados-itil-4-fundamentos/sw.js')
-                    .then(reg => console.log('Service worker registrado.'))
+                    .then(() => console.log('Service worker registrado.'))
                     .catch(err => console.log('Service worker não registrado:', err));
             });
         }

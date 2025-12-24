@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulado 9 ITIL 4 Fundamentos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="back-to-menu">
+            <a href="index.html">&larr; Voltar ao Menu Principal</a>
+        </div>
+
+        <h1>Simulado 9 ITIL 4 Fundamentos</h1>
+
+        <div id="quiz-container">
+            <h2 id="question">Carregando...</h2>
+            <div id="options-container"></div>
+
+            <div class="navigation-buttons">
+                <button id="prev-btn" class="hidden">Questão Anterior</button>
+                <button id="next-btn" class="hidden">Próxima Pergunta</button>
+            </div>
+        </div>
+
+        <div id="result-container" class="hidden">
+            <h2>Resultado Final</h2>
+            <p id="score"></p>
+            <p id="percentage"></p>
+            <button onclick="location.reload()">Tentar Novamente</button>
+        </div>
+    </div>
+
+    <script src="quiz-engine.js"></script>
+    <script>
+        iniciarSimulado('perguntas9.json');
+    </script>
+</body>
+</html>

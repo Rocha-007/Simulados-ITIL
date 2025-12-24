@@ -28,6 +28,8 @@ document.addEventListener('DOMContentLoaded', () => {
         '6': { title: 'Simulado 6 - ITIL 4 fundamentos', file: 'perguntas6.json', back: 'index.html' },
         '7': { title: 'Simulado 7 - ITIL 4 fundamentos', file: 'perguntas7.json', back: 'index.html' },
         '8': { title: 'Simulado 8 - ITIL 4 fundamentos', file: 'perguntas8.json', back: 'index.html' },
+        '9': { title: 'Simulado 9 - ITIL 4 fundamentos', file: 'perguntas9.json', back: 'index.html' },
+
         'conceitos': { title: 'Simulado por Tópico: Conceitos Chave', file: 'perguntas_conceitos.json', back: 'index.html' },
         'principios': { title: 'Simulado por Tópico: 7 Princípios Orientadores', file: 'perguntas_principios.json', back: 'index.html' },
         'dimensoes': { title: 'Simulado por Tópico: 4 Dimensões', file: 'perguntas_dimensoes.json', back: 'index.html' },
