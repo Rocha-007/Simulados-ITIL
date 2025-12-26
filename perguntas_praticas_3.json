@@ -122,10 +122,10 @@
   {
     "pergunta": "Um ANS é um acordo de nível de serviço. O que descreve o efeito 'ANS melancia'?",
     "opcoes": [
-      "A) Um único ANS define níveis de serviço alvo para vários clientes...",
+      "A) Um único ANS define níveis de serviço alvo para vários clientes, para que cada cliente veja relatórios sobre as experiências de outros clientes",
       "B) As métricas de um ANS são focadas em medidas internas, para que os relatórios mostrem que tudo está bem, enquanto o cliente não fica satisfeito",
-      "C) As metas do ANS mudam com muita frequência...",
-      "D) A introdução de ANSs para um serviço permite que os clientes vejam que o prestador de serviços está fazendo um trabalho realmente bom..."
+      "C) As metas do ANS mudam com muita frequência, de modo que cada relatório inclui novas medidas e as tendências não podem ser analisadas",
+      "D) A introdução de ANSs para um serviço permite que os clientes vejam que o prestador de serviços está fazendo um trabalho realmente bom, o que melhora a satisfação"
     ],
     "resposta_correta": "B"
   },
@@ -223,9 +223,9 @@
     "pergunta": "Qual é o propósito da prática de “gerenciamento de problemas”?",
     "opcoes": [
       "A) Para proteger as informações necessárias à organização para conduzir seus negócios",
-      "B) Para reduzir a probabilidade e o impacto dos incidentes...",
-      "C) Alinhar as práticas e serviços da organização com as necessidades de negócios...",
-      "D) Minimizar o impacto negativo dos incidentes, restaurando a operação normal do serviço..."
+      "B) Para reduzir a probabilidade e o impacto dos incidentes, identificando as causas reais e potenciais dos incidentes e gerenciando soluções alternativas e erros conhecidos",
+      "C) Alinhar as práticas e serviços da organização com as necessidades de negócios em constante mudança através da identificação e melhoria contínua dos serviços",
+      "D) Minimizar o impacto negativo dos incidentes, restaurando a operação normal do serviço o mais rápido possível"
     ],
     "resposta_correta": "B"
   },

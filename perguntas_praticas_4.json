@@ -90,7 +90,7 @@
     "resposta_correta": "A"
   },
   {
-    "pergunta": "A prática de 'gestão de incidentes' [?] para registrar e gerenciar incidentes.",
+    "pergunta": "Identifique as palavras que faltam na seguinte frase: A prática de 'gestão de incidentes' [?] para registrar e gerenciar incidentes.",
     "opcoes": [
       "A) deve ter uma equipe dedicada",
       "B) requer um processo formal",

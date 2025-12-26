@@ -71,66 +71,121 @@
   },
   {
     "pergunta": "Qual é o propósito da prática de “gerenciamento de fornecedor”?",
-    "opcoes": ["A) Garantir que os fornecedores de uma organização e seus níveis de desempenho sejam gerenciados adequadamente para oferecer suporte ao fornecimento contínuo de produtos e serviços de qualidade", "B) Alinhar as práticas e os serviços da organização com as necessidades de negócio em constante mudança...", "C) Garantir que os fornecedores da organização e seus desempenhos sejam gerenciados adequadamente em níveis estratégico e tático...", "D) Garantir que informações precisas e confiáveis sobre a configuração dos serviços dos fornecedores estejam disponíveis..."],
+    "opcoes": [
+      "A) Garantir que os fornecedores de uma organização e seus níveis de desempenho sejam gerenciados adequadamente para oferecer suporte ao fornecimento contínuo de produtos e serviços de qualidade",
+      "B) Alinhar as práticas e os serviços da organização com as necessidades de negócio em constante mudança, através da contínua identificação e melhoria dos serviços",
+      "C) Garantir que os fornecedores da organização e seus desempenhos sejam gerenciados adequadamente em níveis estratégico e tático, por meio de atividades coordenadas de marketing, vendas e entrega",
+      "D) Garantir que informações precisas e confiáveis sobre a configuração dos serviços dos fornecedores estejam disponíveis quando e onde forem necessárias"
+    ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é o propósito da prática de “central de serviço”?",
-    "opcoes": ["A) Reduzir a probabilidade e o impacto de incidentes...", "B) Maximizar o número de mudanças bem-sucedidas de TI...", "C) Capturar a demanda de resolução de incidentes e requisições de serviço", "D) Definir metas claras e baseadas nos negócios para o desempenho dos serviços"],
+    "opcoes": [
+      "A) Reduzir a probabilidade e o impacto de incidentes ao identificar suas causas reais e potenciais",
+      "B) Maximizar o número de mudanças bem-sucedidas de TI ao garantir que os riscos sejam avaliados adequadamente",
+      "C) Capturar a demanda de resolução de incidentes e requisições de serviço",
+      "D) Definir metas claras e baseadas nos negócios para o desempenho dos serviços"
+    ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Como uma organização deve adotar métodos de melhoria contínua?",
-    "opcoes": ["A) Usando um novo método para cada melhoria que a organização faz", "B) Selecionando alguns métodos principais para os tipos de melhoria que a organização faz", "C) Desenvolvendo a habilidade de usar a maior quantidade possível de métodos de melhoria", "D) Selecionando um método único para todas as melhorias que a organização faz"],
+    "opcoes": [
+      "A) Usando um novo método para cada melhoria que a organização faz",
+      "B) Selecionando alguns métodos principais para os tipos de melhoria que a organização faz",
+      "C) Desenvolvendo a habilidade de usar a maior quantidade possível de métodos de melhoria",
+      "D) Selecionando um método único para todas as melhorias que a organização faz"
+    ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é a recomendação da prática de “central de serviço”?",
-    "opcoes": ["A) As centrais de serviço devem evitar o uso de automação.", "B) As centrais de serviço devem ser altamente técnicas.", "C) As centrais de serviço devem entender a organização de forma abrangente.", "D) As centrais de serviço devem ser compostas por uma equipe física em um único local fixo."],
+    "opcoes": [
+      "A) As centrais de serviço devem evitar o uso de automação.",
+      "B) As centrais de serviço devem ser altamente técnicas.",
+      "C) As centrais de serviço devem entender a organização de forma abrangente.",
+      "D) As centrais de serviço devem ser compostas por uma equipe física em um único local fixo."
+    ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "O que é uma mudança padrão?",
-    "opcoes": ["A) Uma mudança bem entendida, plenamente documentada e pré-autorizada", "B) Uma mudança que precisa ser avaliada, autorizada e programada por uma autoridade de mudança", "C) Uma mudança que não precisa de uma avaliação de risco porque é necessária para resolver um incidente", "D) Uma mudança avaliada, autorizada e programada como parte da “melhoria contínua”"],
+    "opcoes": [
+      "A) Uma mudança bem entendida, plenamente documentada e pré-autorizada",
+      "B) Uma mudança que precisa ser avaliada, autorizada e programada por uma autoridade de mudança",
+      "C) Uma mudança que não precisa de uma avaliação de risco porque é necessária para resolver um incidente",
+      "D) Uma mudança avaliada, autorizada e programada como parte da “melhoria contínua”"
+    ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que acontece se uma solução de contorno se torna o meio permanente de lidar com um problema que não pode ser resolvido de forma rentável?",
-    "opcoes": ["A) Uma requisição de mudança é enviada para a habilitação de mudança.", "B) O gerenciamento de problema restaura o serviço o mais rápido possível.", "C) O problema permanece com o status de erro conhecido.", "D) O registro de problema é excluído."],
+    "opcoes": [
+      "A) Uma requisição de mudança é enviada para a habilitação de mudança.",
+      "B) O gerenciamento de problema restaura o serviço o mais rápido possível.",
+      "C) O problema permanece com o status de erro conhecido.",
+      "D) O registro de problema é excluído."
+    ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual das opções a seguir é a definição de mudança?",
-    "opcoes": ["A) Acrescentar, modificar ou remover qualquer elemento que possa afetar direta ou indiretamente os serviços", "B) Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis", "C) Disponibilizar para uso serviços e características novos e modificados", "D) Implantar hardware, software ou qualquer outro componente novo ou modificado em ambientes de produção"],
+    "opcoes": [
+      "A) Acrescentar, modificar ou remover qualquer elemento que possa afetar direta ou indiretamente os serviços",
+      "B) Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis",
+      "C) Disponibilizar para uso serviços e características novos e modificados",
+      "D) Implantar hardware, software ou qualquer outro componente novo ou modificado em ambientes de produção"
+    ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "Qual das opções a seguir é a definição de evento?",
-    "opcoes": ["A) Qualquer mudança de estado que tenha relevância para o gerenciamento de um serviço ou de outro item de configuração", "B) Qualquer componente que precise ser gerenciado a fim de entregar um serviço de TI", "C) Uma interrupção não planejada de um serviço ou redução na qualidade de um serviço", "D) Qualquer componente de valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI"],
+    "opcoes": [
+      "A) Qualquer mudança de estado que tenha relevância para o gerenciamento de um serviço ou de outro item de configuração",
+      "B) Qualquer componente que precise ser gerenciado a fim de entregar um serviço de TI",
+      "C) Uma interrupção não planejada de um serviço ou redução na qualidade de um serviço",
+      "D) Qualquer componente de valor financeiro que possa contribuir para a entrega de um produto ou serviço de TI"
+    ],
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Quais práticas normalmente estão envolvidas na implementação de uma resolução de problema?",
+    "pergunta": "Quais práticas normalmente estão envolvidas na implementação de uma resolução de problema?\n\n1. Melhoria contínua\n2. Gerenciamento de requisição de serviço\n3. Gerenciamento de nível de serviço\n4. Habilitação de mudança",
     "opcoes": ["A) 1 e 2", "B) 2 e 3", "C) 3 e 4", "D) 1 e 4"],
     "resposta_correta": "D"
   },
   {
     "pergunta": "Qual é o efeito do aumento da automação na prática de “central de serviço”?",
-    "opcoes": ["A) Redução do registro de autoatendimento de incidente e resolução", "B) Maior aptidão para se concentrar na experiência do cliente quando o contato pessoal é necessário", "C) Maior aptidão para se concentrar na correção da tecnologia em vez de dar suporte às pessoas", "D) Eliminação da necessidade de escalar incidentes para as equipes de suporte"],
+    "opcoes": [
+      "A) Redução do registro de autoatendimento de incidente e resolução",
+      "B) Maior aptidão para se concentrar na experiência do cliente quando o contato pessoal é necessário",
+      "C) Maior aptidão para se concentrar na correção da tecnologia em vez de dar suporte às pessoas",
+      "D) Eliminação da necessidade de escalar incidentes para as equipes de suporte"
+    ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual é o propósito da prática de “monitoração e gerenciamento de evento”?",
-    "opcoes": ["A) Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis quando e onde forem necessárias", "B) Observar sistematicamente serviços e componentes de serviços, e registrar e relatar determinadas mudanças de estado", "C) Proteger as informações de que a organização precisa para conduzir os negócios", "D) Minimizar o impacto negativo de incidentes restaurando a operação normal do serviço o mais rápido possível"],
+    "opcoes": [
+      "A) Garantir que informações precisas e confiáveis sobre a configuração dos serviços estejam disponíveis quando e onde forem necessárias",
+      "B) Observar sistematicamente serviços e componentes de serviços, e registrar e relatar determinadas mudanças de estado",
+      "C) Proteger as informações de que a organização precisa para conduzir os negócios",
+      "D) Minimizar o impacto negativo de incidentes restaurando a operação normal do serviço o mais rápido possível"
+    ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Em que devem se basear todas as decisões de “melhoria contínua”?",
-    "opcoes": ["A) Detalhes de como os serviços são medidos", "B) Dados precisos e analisados com cuidado", "C) Indicadores balanceados de desempenho atualizados", "D) Avaliação recente de maturidade"],
+    "opcoes": [
+      "A) Detalhes de como os serviços são medidos",
+      "B) Dados precisos e analisados com cuidado",
+      "C) Indicadores balanceados de desempenho atualizados",
+      "D) Avaliação recente de maturidade"
+    ],
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Como o engajamento com o cliente contribui para a prática de “gerenciamento de nível de serviço”? 1. Ele captura informações nas quais as métricas podem se basear. 2. Ele garante que a organização atenda aos níveis de serviço definidos. 3. Ele define os fluxos de trabalho para requisições de serviço. 4. Ele dá suporte às discussões de progresso.",
+    "pergunta": "Como o engajamento com o cliente contribui para a prática de “gerenciamento de nível de serviço”?\n\n1. Ele captura informações nas quais as métricas podem se basear.\n2. Ele garante que a organização atenda aos níveis de serviço definidos.\n3. Ele define os fluxos de trabalho para requisições de serviço.\n4. Ele dá suporte às discussões de progresso.",
     "opcoes": ["A) 1 e 2", "B) 2 e 3", "C) 3 e 4", "D) 1 e 4"],
     "resposta_correta": "D"
   },
@@ -151,17 +206,27 @@
   },
   {
     "pergunta": "Qual destas afirmativas sobre a autorização da mudança está CORRETA?",
-    "opcoes": ["A) Uma autoridade de mudança deve ser atribuída para cada tipo de mudança e modelo de mudança.", "B) Centralizar as autorizações de mudança em uma única pessoa é o meio mais eficaz de autorização.", "C) A autorização de mudanças normais deve ser agilizada...", "D) As mudanças padrão são de alto risco..."],
+    "opcoes": [
+      "A) Uma autoridade de mudança deve ser atribuída para cada tipo de mudança e modelo de mudança.",
+      "B) Centralizar as autorizações de mudança em uma única pessoa é o meio mais eficaz de autorização.",
+      "C) A autorização de mudanças normais deve ser agilizada, para garantir que elas possam ser implementadas rapidamente.",
+      "D) As mudanças padrão são de alto risco e devem ser autorizadas pelo nível mais alto de autoridade de mudança."
+    ],
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Um erro conhecido é um problema que foi [?] e não foi resolvido.",
+    "pergunta": "Identifique a palavra que está faltando na frase a seguir: “Um erro conhecido é um problema que foi [?] e não foi resolvido.”",
     "opcoes": ["A) registrado", "B) analisado", "C) escalado", "D) encerrado"],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Qual destas afirmativas sobre erros conhecidos e problemas está CORRETA?",
-    "opcoes": ["A) Erro conhecido é o status atribuído a um problema depois de ele ter sido analisado.", "B) Um erro conhecido é a causa de um ou mais problemas.", "C) Erros conhecidos causam vulnerabilidades, ao passo que problemas causam incidentes.", "D) Erros conhecidos são gerenciados pela equipe técnica..."],
+    "opcoes": [
+      "A) Erro conhecido é o status atribuído a um problema depois de ele ter sido analisado.",
+      "B) Um erro conhecido é a causa de um ou mais problemas.",
+      "C) Erros conhecidos causam vulnerabilidades, ao passo que problemas causam incidentes.",
+      "D) Erros conhecidos são gerenciados pela equipe técnica, ao passo que problemas são gerenciados pela equipe de gerenciamento de serviço."
+    ],
     "resposta_correta": "A"
   },
   {
@@ -171,7 +236,12 @@
   },
   {
     "pergunta": "Qual destas afirmativas sobre a prática de “central de serviço” está CORRETA?",
-    "opcoes": ["A) Ela fornece um vínculo com as partes interessadas nos níveis estratégico e tático.", "B) Ela realiza a avaliação e a autorização de mudança.", "C) Ela investiga a causa dos incidentes.", "D) Ela precisa de um entendimento prático dos processos de negócio."],
+    "opcoes": [
+      "A) Ela fornece um vínculo com as partes interessadas nos níveis estratégico e tático.",
+      "B) Ela realiza a avaliação e a autorização de mudança.",
+      "C) Ela investiga a causa dos incidentes.",
+      "D) Ela precisa de um entendimento prático dos processos de negócio."
+    ],
     "resposta_correta": "D"
   },
   {
@@ -186,32 +256,62 @@
   },
   {
     "pergunta": "O que deve ser feito em relação a cada problema?",
-    "opcoes": ["A) Deve ser diagnosticado, para identificar possíveis soluções.", "B) Deve ser priorizado com base no possível impacto e probabilidade de ocorrência.", "C) Deve ser resolvido, para que possa ser encerrado.", "D) Deve haver uma solução de contorno para reduzir o impacto."],
+    "opcoes": [
+      "A) Deve ser diagnosticado, para identificar possíveis soluções.",
+      "B) Deve ser priorizado com base no possível impacto e probabilidade de ocorrência.",
+      "C) Deve ser resolvido, para que possa ser encerrado.",
+      "D) Deve haver uma solução de contorno para reduzir o impacto."
+    ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Como uma organização deve envolver fornecedores terceiros na melhoria contínua dos serviços?",
-    "opcoes": ["A) Garantindo que os fornecedores incluam detalhes de sua abordagem para a melhoria de serviço nos contratos", "B) Exigindo evidências de que o fornecedor usa métodos de desenvolvimento agile", "C) Exigindo evidências de que o fornecedor implementa todas as melhorias...", "D) Garantindo que todas as atividades do gerenciamento de problema do fornecedor resultem em melhorias"],
+    "opcoes": [
+      "A) Garantindo que os fornecedores incluam detalhes de sua abordagem para a melhoria de serviço nos contratos",
+      "B) Exigindo evidências de que o fornecedor usa métodos de desenvolvimento agile",
+      "C) Exigindo evidências de que o fornecedor implementa todas as melhorias através do uso de práticas de gerenciamento de projeto",
+      "D) Garantindo que todas as atividades do gerenciamento de problema do fornecedor resultem em melhorias"
+    ],
     "resposta_correta": "A"
   },
   {
     "pergunta": "O que é um problema?",
-    "opcoes": ["A) Um acréscimo ou modificação que possa afetar os serviços", "B) Qualquer mudança de estado que tenha relevância para o gerenciamento de um item de configuração", "C) Uma causa real ou potencial de um ou mais incidentes", "D) Uma redução não planejada na qualidade de um serviço"],
+    "opcoes": [
+      "A) Um acréscimo ou modificação que possa afetar os serviços",
+      "B) Qualquer mudança de estado que tenha relevância para o gerenciamento de um item de configuração",
+      "C) Uma causa real ou potencial de um ou mais incidentes",
+      "D) Uma redução não planejada na qualidade de um serviço"
+    ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Qual é o propósito da prática de “gerenciamento do relacionamento”?",
-    "opcoes": ["A) Alinhar as práticas e os serviços da organização com as necessidades de negócio em constante mudança", "B) Estabelecer e reforçar vínculos entre a organização e as respectivas partes interessadas nos níveis estratégico e tático", "C) Reduzir a probabilidade e o impacto de incidentes...", "D) Minimizar o impacto negativo de incidentes..."],
+    "opcoes": [
+      "A) Alinhar as práticas e os serviços da organização com as necessidades de negócio em constante mudança",
+      "B) Estabelecer e reforçar vínculos entre a organização e as respectivas partes interessadas nos níveis estratégico e tático",
+      "C) Reduzir a probabilidade e o impacto de incidentes por meio da identificação de causas reais e potenciais e do gerenciamento de soluções de contorno e erros conhecidos",
+      "D) Minimizar o impacto negativo de incidentes restaurando a operação normal do serviço o mais rápido possível"
+    ],
     "resposta_correta": "B"
   },
   {
     "pergunta": "Por que uma empresa usaria um pacote balanceado de métricas de serviço?",
-    "opcoes": ["A) Ele reduz o número de métricas que precisam ser coletadas.", "B) Ele relata cada elemento de serviço separadamente.", "C) Ele fornece uma visão de serviço baseada em resultados.", "D) Ele facilita a coleta automática de métricas"],
+    "opcoes": [
+      "A) Ele reduz o número de métricas que precisam ser coletadas.",
+      "B) Ele relata cada elemento de serviço separadamente.",
+      "C) Ele fornece uma visão de serviço baseada em resultados.",
+      "D) Ele facilita a coleta automática de métricas"
+    ],
     "resposta_correta": "C"
   },
   {
     "pergunta": "Por que os incidentes devem ser priorizados?",
-    "opcoes": ["A) Para ajudar a correspondência automatizada de incidentes com problemas ou erros conhecidos", "B) Para identificar para qual equipe de suporte o incidente deve ser escalado", "C) Para garantir que os incidentes com maior impacto no negócio sejam resolvidos primeiro", "D) Para incentivar um alto nível de colaboração dentro das equipes e entre elas"],
+    "opcoes": [
+      "A) Para ajudar a correspondência automatizada de incidentes com problemas ou erros conhecidos",
+      "B) Para identificar para qual equipe de suporte o incidente deve ser escalado",
+      "C) Para garantir que os incidentes com maior impacto no negócio sejam resolvidos primeiro",
+      "D) Para incentivar um alto nível de colaboração dentro das equipes e entre elas"
+    ],
     "resposta_correta": "C"
   },
   {
@@ -231,7 +331,12 @@
   },
   {
     "pergunta": "Qual é o MELHOR exemplo de uma mudança emergencial?",
-    "opcoes": ["A) A implementação de uma nova liberação planejada de um aplicativo de software", "B) Uma atualização de computador de baixo risco implementada como uma requisição de serviço", "C) A implementação de uma correção de segurança em um aplicativo de software crítico", "D) Uma grande implementação programada de hardware e software"],
+    "opcoes": [
+      "A) A implementação de uma nova liberação planejada de um aplicativo de software",
+      "B) Uma atualização de computador de baixo risco implementada como uma requisição de serviço",
+      "C) A implementação de uma correção de segurança em um aplicativo de software crítico",
+      "D) Uma grande implementação programada de hardware e software"
+    ],
     "resposta_correta": "C"
   }
 ]

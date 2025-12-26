@@ -1,35 +1,5 @@
 [
   {
-    "pergunta": "Qual é o grupo de partes interessadas MAIS importante com o qual um prestador de serviços precisa colaborar?",
-    "opcoes": [
-      "A) Fornecedores",
-      "B) Clientes",
-      "C) Gerentes de relacionamento",
-      "D) Desenvolvedores"
-    ],
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual prática lida com todas as ações de serviço predefinidas iniciadas pelo usuário?",
-    "opcoes": [
-      "A) Gerenciamento de implantação",
-      "B) Gestão de incidentes",
-      "C) Gerenciamento de nível de serviço",
-      "D) Gerenciamento de requisições de serviço"
-    ],
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Com que finalidade a prática de melhoria contínua utilizaria uma análise SWOT?",
-    "opcoes": [
-      "A) Compreender o estado atual",
-      "B) Definindo o futuro estado desejado",
-      "C) Acompanhamento e gerenciamento de ideias",
-      "D) Garantir que todos participem ativamente"
-    ],
-    "resposta_correta": "A"
-  },
-  {
     "pergunta": "Qual das alternativas a seguir é a MAIS importante para um gerenciamento eficaz de incidentes?",
     "opcoes": [
       "A) Ferramentas e técnicas de colaboração",
@@ -40,52 +10,72 @@
     "resposta_correta": "A"
   },
   {
+    "pergunta": "Qual afirmação sobre mudanças emergenciais está CORRETA?",
+    "opcoes": [
+      "A) Mudanças emergenciais são de baixo risco e bem compreendidas",
+      "B) A autorização de alterações emergenciais pode ser adiada até depois da implementação",
+      "C) É necessário preencher toda a documentação antes que uma mudança emergencial seja implementada",
+      "D) Mudanças emergenciais geralmente não são registradas no cronograma de mudanças"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Como um consumidor de serviços contribui para a redução do risco?",
+    "opcoes": [
+      "A) Pagando pelo serviço",
+      "B) Gerenciando o hardware do servidor",
+      "C) Comunicando restrições",
+      "D) Gerenciando a disponibilidade da equipe"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que está CORRETO sobre autorização de mudança?",
+    "opcoes": [
+      "A) Uma autoridade de mudança é atribuída sempre que uma mudança padrão é solicitada",
+      "B) Mudanças emergenciais são autorizadas pelo técnico que faz a mudança",
+      "C) A atribuição da autoridade de mudança é baseada no tipo e modelo de mudança",
+      "D) A autoridade de mudança garantirá que as mudanças sejam autorizadas após serem implantadas"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual das quatro dimensões se concentra no gerenciamento de dados em conformidade com as regulamentações do setor?",
+    "opcoes": [
+      "A) Parceiros e fornecedores",
+      "B) Organizações e pessoas",
+      "C) Fluxos e processos de valor",
+      "D) Informação e tecnologia"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual prática recomenda o uso de ferramentas de colaboração e correspondência automatizada de sintomas?",
+    "opcoes": [
+      "A) Gerenciamento de problemas",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de incidentes",
+      "D) Gerenciamento de requisições de serviço"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual prática tem o objetivo de garantir que os fornecedores da organização e seu desempenho sejam gerenciados de forma adequada para apoiar o fornecimento de produtos e serviços de qualidade e contínuos?",
+    "opcoes": [
+      "A) Gerenciamento de liberação",
+      "B) Gerenciamento de fornecedor",
+      "C) Gerenciamento de serviços",
+      "D) Gerenciamento de relacionamento"
+    ],
+    "resposta_correta": "B"
+  },
+  {
     "pergunta": "O que deve ser usado para definir as expectativas do usuário quanto aos tempos de atendimento das requisições?",
     "opcoes": [
       "A) O horário que o cliente indica para a prestação do serviço",
       "B) A demanda do consumidor pelo serviço",
       "C) O tempo necessário para entregar o serviço de forma realista",
       "D) Os níveis de serviço do fornecedor"
-    ],
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual prática tem um propósito que inclui maximizar o número de adições, modificações ou remoções bem-sucedidas de qualquer coisa que possa afetar um serviço?",
-    "opcoes": [
-      "A) Gerenciamento de solicitações de serviço",
-      "B) Gestão de incidentes",
-      "C) Central de Serviço",
-      "D) Habilitação de mudança"
-    ],
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "O que é definido como \"qualquer componente que precisa ser gerenciado para entregar um serviço de TI\"?",
-    "opcoes": [
-      "A) Um evento",
-      "B) Um ativo de TI",
-      "C) Um item de configuração",
-      "D) Uma mudança"
-    ],
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual prática tem um propósito que inclui o gerenciamento de autenticação e não repúdio?",
-    "opcoes": [
-      "A) Gestão da segurança da informação",
-      "B) Gestão de fornecedores",
-      "C) Gerenciamento de configuração de serviço",
-      "D) Gestão de relacionamento"
-    ],
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Que termo é usado para descrever a funcionalidade de um serviço?",
-    "opcoes": [
-      "A) Saída",
-      "B) Resultado",
-      "C) Utilidade",
-      "D) Garantia"
     ],
     "resposta_correta": "C"
   },
@@ -100,24 +90,64 @@
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual é a definição de um ativo de TI?",
+    "pergunta": "Que termo é usado para descrever a funcionalidade de um serviço?",
     "opcoes": [
-      "A) Qualquer componente financeiramente valioso que contribua para um serviço",
-      "B) Qualquer solicitação de um usuário que seja parte normal da prestação de serviço",
-      "C) Qualquer componente que precise ser gerenciado para entregar um serviço",
-      "D) Qualquer mudança de estado que tenha significado para a gestão de um serviço"
+      "A) Saída",
+      "B) Resultado",
+      "C) Utilidade",
+      "D) Garantia"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual prática utiliza técnicas como análise SWOT, revisões de Balanced Scorecard e avaliações de maturidade?",
+    "opcoes": [
+      "A) Gerenciamento de incidentes",
+      "B) Gerenciamento de problemas",
+      "C) Melhoria contínua",
+      "D) Gerenciamento de solicitações de serviço"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual prática tem um propósito que inclui o gerenciamento de autenticação e não repúdio?",
+    "opcoes": [
+      "A) Gestão da segurança da informação",
+      "B) Gestão de fornecedores",
+      "C) Gerenciamento de configuração de serviço",
+      "D) Gestão de relacionamento"
     ],
     "resposta_correta": "A"
   },
   {
-    "pergunta": "Identifique a palavra que falta: O propósito da prática de gerenciamento de problema é reduzir a probabilidade e o impacto dos incidentes, identificando as causas reais e potenciais dos incidentes e gerenciando soluções de contorno e [?].",
+    "pergunta": "Qual é o PRINCIPAL requisito para contratos de nível de serviço (ANS) bem-sucedidos?",
     "opcoes": [
-      "A) eventos",
-      "B) mudanças",
-      "C) ativos de TI",
-      "D) erros conhecidos"
+      "A) Eles devem ser escritos usando linguagem e termos que todas as partes entendam",
+      "B) Eles devem ser baseados em métricas baseadas em sistema que sejam úteis para o provedor de serviços",
+      "C) Eles devem ser transportados, inalterados, de um ano para o outro para permitir um serviço consistente",
+      "D) Devem evitar metas ambíguas, como aquelas relacionadas à experiência do usuário"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Em qual situação o gerenciamento de incidentes GERALMENTE usará um processo separado?",
+    "opcoes": [
+      "A) Onde não existe tempo de resolução alvo",
+      "B) Para incidentes de baixo impacto",
+      "C) Onde a causa deve ser diagnosticada",
+      "D) Para incidentes de segurança da informação"
     ],
     "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Com que finalidade a prática de melhoria contínua utilizaria uma análise SWOT?",
+    "opcoes": [
+      "A) Compreender o estado atual",
+      "B) Definindo o futuro estado desejado",
+      "C) Acompanhamento e gerenciamento de ideias",
+      "D) Garantir que todos participem ativamente"
+    ],
+    "resposta_correta": "A"
   },
   {
     "pergunta": "Qual é um exemplo de atividade de controle de problemas?",
@@ -130,54 +160,214 @@
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual afirmação sobre mudanças emergenciais está CORRETA?",
+    "pergunta": "O que é definido como 'o papel que utiliza serviços'?",
     "opcoes": [
-      "A) Mudanças emergenciais são de baixo risco e bem compreendidas",
-      "B) A autorização de alterações emergenciais pode ser adiada",
-      "C) É necessário preencher toda a documentação antes",
-      "D) Mudanças emergenciais geralmente não são registradas no cronograma"
-    ],
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "Que dimensão da gestão de serviços inclui o tipo de relacionamento necessário com outras organizações?",
-    "opcoes": [
-      "A) Organizações e pessoas",
-      "B) Informação e tecnologia",
-      "C) Parceiros e fornecedores",
-      "D) Fluxos e processos de valor"
+      "A) Consumidor de serviço",
+      "B) Cliente",
+      "C) Usuário",
+      "D) Patrocinador"
     ],
     "resposta_correta": "C"
   },
   {
-    "pergunta": "Qual é o principal requisito para um acordo de nível de serviço (ANS) bem-sucedido?",
+    "pergunta": "Qual aspecto deve ser mantido consistente dentro de uma organização, mesmo diante de mudanças nos objetivos organizacionais?",
     "opcoes": [
-      "A) Métricas individuais",
-      "B) Métricas agrupadas ligadas a resultados",
-      "C) Métricas baseadas em sistema único",
-      "D) Acordo com fornecedor"
+      "A) Resultados",
+      "B) Princípios orientadores",
+      "C) Ofertas de serviços",
+      "D) Estrutura de gerenciamento"
     ],
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Qual dimensão se concentra no gerenciamento de dados conforme regulamentações?",
+    "pergunta": "Quais são os DOIS tipos de competência MAIS importantes para a equipe da Central de Serviço? (1. Conhecimento de negócios; 2. Habilidades de colaboração; 3. Conhecimento técnico avançado; 4. Desenho de fluxo)",
     "opcoes": [
-      "A) Parceiros e fornecedores",
-      "B) Organizações e pessoas",
-      "C) Fluxos e processos de valor",
-      "D) Informação e tecnologia"
+      "A) 1 e 2",
+      "B) 2 e 3",
+      "C) 3 e 4",
+      "D) 1 e 4"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Em que se concentra PRINCIPALMENTE a 'habilitação de mudanças'?",
+    "opcoes": [
+      "A) Mudanças nos níveis de serviço",
+      "B) Mudanças em produtos e serviços",
+      "C) Mudanças na estrutura organizacional",
+      "D) Mudanças nas habilidades e competências"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual é um exemplo de requisição de serviço?",
+    "opcoes": [
+      "A) Uma solicitação para que a operação normal seja restaurada",
+      "B) Um pedido de implementação de um patch de segurança",
+      "C) Um pedido de acesso a um arquivo",
+      "D) Uma solicitação para investigar a causa de um incidente"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "O que é considerado pela dimensão 'parceiros e fornecedores'?",
+    "opcoes": [
+      "A) Usando inteligência artificial",
+      "B) Definição de controles e procedimentos",
+      "C) Usando funções e responsabilidades formais",
+      "D) Trabalhar com um integrador para gerenciar relacionamentos"
     ],
     "resposta_correta": "D"
   },
   {
-    "pergunta": "Qual prática garante que fornecedores e seu desempenho sejam gerenciados adequadamente?",
+    "pergunta": "Quais destas atividades são realizadas como parte do 'gerenciamento de problemas'?",
     "opcoes": [
-      "A) Gerenciamento de liberação",
-      "B) Gerenciamento de fornecedor",
-      "C) Gerenciamento de serviços",
-      "D) Gerenciamento de relacionamento"
+      "A) Criação de registros de incidentes",
+      "B) Diagnosticando e resolvendo incidentes",
+      "C) Escalar incidentes para uma equipe de suporte para resolução",
+      "D) Análise de tendências de registros de incidentes"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual afirmação sobre a prática de 'habilitação de mudanças' está CORRETA?",
+    "opcoes": [
+      "A) As requisições de serviço geralmente são alterações normais sem autorização",
+      "B) Mudanças emergenciais devem ser totalmente testadas e documentadas antes da implementação",
+      "C) Mudanças padrão precisam ser programadas, avaliadas e autorizadas seguindo um processo padrão",
+      "D) Mudanças emergenciais são mudanças que devem ser implementadas o mais rápido possível e a autorização é agilizada"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual prática faz uso de métodos Lean, Agile e DevOps?",
+    "opcoes": [
+      "A) Central de Serviços",
+      "B) Melhoria contínua",
+      "C) Gerenciamento de problemas",
+      "D) Gerenciamento de incidentes"
     ],
     "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual prática tem um propósito que inclui maximizar o número de adições, modificações ou remoções bem-sucedidas de qualquer coisa que possa afetar um serviço?",
+    "opcoes": [
+      "A) Gerenciamento de solicitações de serviço",
+      "B) Gestão de incidentes",
+      "C) Central de Serviço",
+      "D) Habilitação de mudança"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é um elemento-chave do princípio orientador de 'pensar e trabalhar de forma holística'?",
+    "opcoes": [
+      "A) Avaliar quais procedimentos podem ser reutilizados na melhoria de um serviço",
+      "B) Compreender os métodos aplicáveis a sistemas complexos",
+      "C) Eliminar métricas que não contribuem para atingir um objetivo",
+      "D) Usar a tecnologia para tarefas padrão para dar às pessoas tempo para atividades complexas"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Qual prática garante que vários canais de acesso estejam disponíveis para os usuários relatarem questões?",
+    "opcoes": [
+      "A) Central de Serviços",
+      "B) Gerenciamento de nível de serviço",
+      "C) Gerenciamento de incidentes",
+      "D) Habilitação de mudança"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Ao utilizar o modelo de melhoria contínua ITIL, quais informações devem ser produzidas por uma organização para entender onde a organização está agora?",
+    "opcoes": [
+      "A) Objetivos de negócios",
+      "B) Planos de melhoria",
+      "C) Resultados da avaliação",
+      "D) Relatórios de KPI"
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "pergunta": "Qual prática minimiza o impacto na operação normal do serviço, gerenciando recursos em resposta a reduções não planejadas na qualidade do serviço?",
+    "opcoes": [
+      "A) Gerenciamento de incidentes",
+      "B) Habilitação de mudança",
+      "C) Gerenciamento de nível de serviço",
+      "D) Melhoria contínua"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual é o principal requisito para um acordo de nível de serviço (ANS) bem-sucedido?",
+    "opcoes": [
+      "A) Usando métricas individuais relacionadas ao catálogo de serviços",
+      "B) Usando métricas agrupadas para relacionar desempenho com resultados",
+      "C) Usando métricas baseadas em sistema único relacionadas aos resultados",
+      "D) Usando um acordo entre o prestador de serviços e o fornecedor de serviços"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Identifique a(s) palavra(s) que falta(m): O propósito da prática de gerenciamento de problema é reduzir a probabilidade e o impacto dos incidentes, identificando as causas reais e potenciais dos incidentes e gerenciando soluções de contorno e [?].",
+    "opcoes": [
+      "A) eventos",
+      "B) mudanças",
+      "C) ativos de Tl",
+      "D) erros conhecidos"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é a definição de um ativo de TI?",
+    "opcoes": [
+      "A) Qualquer componente financeiramente valioso que contribua para um serviço",
+      "B) Qualquer solicitação de um usuário que seja parte normal da prestação de serviço",
+      "C) Qualquer componente que precise ser gerenciado para entregar um serviço",
+      "D) Qualquer mudança de estado que tenha significado para a gestão de um serviço"
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "pergunta": "Qual prática lida com todas as ações de serviço predefinidas iniciadas pelo usuário?",
+    "opcoes": [
+      "A) Gerenciamento de implantação",
+      "B) Gestão de incidentes",
+      "C) Gerenciamento de nível de serviço",
+      "D) Gerenciamento de requisições de serviço"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual atividade NÃO é recomendada pelo princípio orientador 'comece onde você está'?",
+    "opcoes": [
+      "A) Envolver pessoas não familiarizadas com um serviço na observação e avaliação",
+      "B) Aplicação da gestão de riscos ao considerar a introdução de novos processos",
+      "C) Usando dados de origem para evitar qualquer distorção não intencional de dados",
+      "D) Descartar processos existentes antes de avaliar sua utilidade"
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "pergunta": "Qual é o grupo de partes interessadas MAIS importante com o qual um prestador de serviços precisa colaborar?",
+    "opcoes": [
+      "A) Fornecedores",
+      "B) Clientes",
+      "C) Gerentes de relacionamento",
+      "D) Desenvolvedores"
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "pergunta": "Quais afirmações estão MAIS associadas ao princípio de 'otimizar e automatizar'? (3. Tecnologia melhora eficiência de processos manuais; 4. Compreender objetivos ao avaliar melhorias)",
+    "opcoes": [
+      "A) 1 e 2",
+      "B) 2 e 3",
+      "C) 3 e 4",
+      "D) 1 e 4"
+    ],
+    "resposta_correta": "C"
   },
   {
     "pergunta": "Patrocinador é a função que autoriza o orçamento para o/a [?] do serviço.",
@@ -190,62 +380,22 @@
     "resposta_correta": "B"
   },
   {
-    "pergunta": "Em qual situação o gerenciamento de incidentes geralmente usará um processo separado?",
+    "pergunta": "O que é definido como 'qualquer componente que precisa ser gerenciado para entregar um serviço de TI'?",
     "opcoes": [
-      "A) Onde não existe tempo de resolução alvo",
-      "B) Para incidentes de baixo impacto",
-      "C) Onde a causa deve ser diagnosticada",
-      "D) Para incidentes de segurança da informação"
-    ],
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "O que é considerado pela dimensão parceiros e fornecedores?",
-    "opcoes": [
-      "A) Uso de inteligência artificial",
-      "B) Definição de controles",
-      "C) Funções formais",
-      "D) Trabalhar com um integrador"
-    ],
-    "resposta_correta": "D"
-  },
-  {
-    "pergunta": "No modelo de melhoria contínua ITIL, o que deve ser produzido para entender o estado atual?",
-    "opcoes": [
-      "A) Objetivos de negócios",
-      "B) Planos de melhoria",
-      "C) Resultados da avaliação",
-      "D) Relatórios de KPI"
+      "A) Um evento",
+      "B) Um ativo de TI",
+      "C) Um item de configuração",
+      "D) Uma mudança"
     ],
     "resposta_correta": "C"
   },
   {
-    "pergunta": "O que está CORRETO sobre autorização de mudança?",
+    "pergunta": "Que dimensão da gestão de serviços inclui a consideração do tipo de relacionamento necessário com outras organizações envolvidas na concepção e prestação de serviços?",
     "opcoes": [
-      "A) Mudanças padrão sempre exigem autoridade",
-      "B) Mudanças emergenciais são autorizadas pelo técnico",
-      "C) A autoridade depende do tipo de mudança",
-      "D) Autorização ocorre após implantação"
-    ],
-    "resposta_correta": "C"
-  },
-  {
-    "pergunta": "Qual é o PRINCIPAL requisito para contratos de nível de serviço bem-sucedidos?",
-    "opcoes": [
-      "A) Linguagem clara e compreensível",
-      "B) Métricas técnicas",
-      "C) Reutilização anual",
-      "D) Evitar metas subjetivas"
-    ],
-    "resposta_correta": "A"
-  },
-  {
-    "pergunta": "Qual é um exemplo de requisição de serviço?",
-    "opcoes": [
-      "A) Restaurar operação normal",
-      "B) Implementar patch de segurança",
-      "C) Pedido de acesso a um arquivo",
-      "D) Investigar causa de incidente"
+      "A) Organizações e pessoas",
+      "B) Informação e tecnologia",
+      "C) Parceiros e fornecedores",
+      "D) Fluxos e processos de valor"
     ],
     "resposta_correta": "C"
   }
